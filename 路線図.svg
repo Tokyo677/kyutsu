@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="10012.632"
-     inkscape:cy="14880.355"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="7987.9998"
+     inkscape:cy="12249"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1072"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showguides="true"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
@@ -54,12 +54,19 @@
        visible="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <rect
+       x="6416.6404"
+       y="10634.179"
+       width="125.1579"
+       height="89.449006"
+       id="rect415" />
+  </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="境界"
-     transform="translate(7748.03,7918.1026)">
+     transform="translate(7748.03, 7918.1)">
     <g
        id="g245"
        transform="translate(-6349.6,-5253.54)"
@@ -79,7 +86,12 @@
            x="820.22406"
            y="3091.5034"
            id="tspan90-9-3-1-8-7-3-1-4-7-3"
-           sodipodi:role="line">上加新川市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="820.22406"
+           y="3104.8367"
+           sodipodi:role="line"
+           id="tspan336">上加新川市</tspan></text>
     </g>
     <g
        id="g239"
@@ -87,18 +99,23 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="1586.8982"
-         y="911.94135"
+         x="1586.4055"
+         y="899.59601"
          id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-5"><tspan
            sodipodi:role="line"
            id="tspan14-2-4-8-9-3-8-1-4-9-6-3-2-1-7"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="1586.8982"
-           y="911.94135">高島市</tspan><tspan
+           x="1586.4055"
+           y="899.59601">高島県</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="1586.8982"
-           y="925.27466"
+           x="1586.4055"
+           y="912.92932"
+           id="tspan284">高島市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1586.4055"
+           y="926.26263"
            id="tspan90-4">中央区</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -119,11 +136,16 @@
            id="tspan14-2-4-8-9-3-8-1-4-9-6-3-2-1-78"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1439.4967"
-           y="1267.1649">高島市</tspan><tspan
+           y="1267.1649">高島県</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1439.4967"
            y="1280.4982"
+           id="tspan277">高島市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1439.4967"
+           y="1293.8315"
            id="tspan90-9">夏原区</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -145,11 +167,16 @@
            id="tspan14-2-4-8-9-3-8-1-4-9-6-3-2-1"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1485.1266"
-           y="1156.9934">高島市</tspan><tspan
+           y="1156.9934">高島県</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1485.1266"
            y="1170.3267"
+           id="tspan276">高島市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1485.1266"
+           y="1183.66"
            id="tspan90">銀座区</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -171,11 +198,16 @@
            id="tspan14-2-4-8-9-3-8-1-4-9-6-3-2-1-78-3"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1078.0007"
-           y="1308.7396">高島市</tspan><tspan
+           y="1308.7396">高島県</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1078.0007"
            y="1322.0729"
+           id="tspan278">高島市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1078.0007"
+           y="1335.4062"
            id="tspan90-9-3">根口区</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -196,10 +228,15 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1032.8351"
            y="854.23438"
-           sodipodi:role="line">高島市</tspan><tspan
+           sodipodi:role="line">高島県</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1032.8351"
            y="867.56769"
+           sodipodi:role="line"
+           id="tspan279">高島市</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1032.8351"
+           y="880.901"
            id="tspan90-9-3-1-8"
            sodipodi:role="line">本町区</tspan></text>
       <path
@@ -214,18 +251,28 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="1040.3943"
-         y="710.61224"
+         x="1021.5118"
+         y="697.28632"
          id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5"><tspan
            sodipodi:role="line"
            id="tspan14-2-4-8-9-3-8-1-4-9-6-3-2-1-78-3-8-5"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="1040.3943"
-           y="710.61224">高島市</tspan><tspan
+           x="1021.5118"
+           y="697.28632" /><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="1040.3943"
-           y="723.94556"
+           x="1021.5118"
+           y="710.61963"
+           id="tspan280">高島県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1021.5118"
+           y="723.95294"
+           id="tspan281">高島市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1021.5118"
+           y="737.28619"
            id="tspan90-9-3-1-4">風見区</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -246,7 +293,12 @@
            x="793.19739"
            y="748.30988"
            id="tspan90-9-3-1-8-0"
-           sodipodi:role="line">美城市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="793.19739"
+           y="761.64319"
+           sodipodi:role="line"
+           id="tspan282">美城市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
          d="m 402.2362,608.04719 29,124 89,143 27,110 59,55.00001 -19,46 -3,59 124,48 35.625,7.6875 0.375,-8.5625 34.8862,-41.0729 21.1138,-10.0521 h 51.011 l 44.9676,-6.9163 56.9745,-20.0504 66.9219,-19.0312 -62.0938,-27.9375 -16.58089,-87.92568 -21.4342,-58.2922 9.9437,-80.4776 -45.3432,-45.4758 9.2808,-36.0182 4.7729,-56.9221 17.55347,-93.91388 55.38565,-31.23809 59.99507,-41.16902 -143.51217,-58.19991 -69.54402,-103.67519 -195.29831,10.24306 -186,12 z"
@@ -266,7 +318,12 @@
            x="320.75644"
            y="1076.3645"
            id="tspan90-9-3-1-8-0-5"
-           sodipodi:role="line">十河市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="320.75644"
+           y="1089.6978"
+           sodipodi:role="line"
+           id="tspan311">十河市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
          d="m 15.1819,866.55509 11.3137,158.39191 77.7817,166.8772 14.1421,131.5219 69.2965,7.0711 188.0904,-132.9361 80.90228,8.1228 66.17592,-111.3604 64.3909,-8.0875 18.9372,-46.0062 -59.1014,-55.13391 -26.9667,-109.9755 -88.04323,-141.69184 -29.73379,-124.6287 35.16466,-211.73396 -423.808695,52.8045 185.299405,121.10916 11.90399,69.96566 -65.26015,132.00022 -29.71174,17.30676 -65.71875,9.875 z"
@@ -286,7 +343,12 @@
            x="-19.401066"
            y="736.20703"
            id="tspan90-9-3-1-8-0-1"
-           sodipodi:role="line">大箕市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-19.401066"
+           y="749.54034"
+           sodipodi:role="line"
+           id="tspan335">大箕市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
          d="m -619.8,566.74185 79.1959,230.51684 107.4803,24.0416 156.9777,-38.1838 73.5391,45.2549 h 73.5391 l 77.7817,-14.1422 101.4698,-14.4957 65.761,-9.5459 29.3449,-16.617 31.8198,-63.2861 33.9411,-69.2964 -12.0208,-70.0036 -93.3381,-60.81119 -94.7523,-63.63961 -76.3675,4.24264 -114.5513,-2.82842 -159.8061,-26.87006 -142.8356,31.1127 -111.7229,60.81118 z"
@@ -304,8 +366,13 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="-30.739647"
            y="1242.7158"
-           id="tspan90-9-3-1-8-0-1-5"
-           sodipodi:role="line">三橋市</tspan></text>
+           sodipodi:role="line"
+           id="tspan308">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-30.739647"
+           y="1256.0491"
+           sodipodi:role="line"
+           id="tspan309">三橋市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
          d="m -483.2638,810.17219 -9.257,183.6621 49.4975,90.50971 63.6396,69.2965 1.4142,137.1787 128.6934,70.7107 158.3919,11.3137 81.532901,65.9902 133.427599,117.8575 257.25433,-18.2963 94.88487,162.5461 223.10419,-15.9172 181.20907,-13.25 16.83445,-70.5357 -36.59441,-9.4501 -121.88538,-60.4543 -187.18606,-55.2543 50.75271,-324.0283 -18.1583,-6.9847 2.92941,-58.9301 -64.36502,8.0108 -66.17743,111.4629 -80.39205,-8.465 -189.10108,133.2721 -68.7882,-7.0711 -12.24662,-115.9239 -1.87373,-15.1838 -224.47147,38.299 -93.90311,-186.2775 -66.82158,-104.65173 -64.52349,-3.75658 -5.6569,-110.3087 -4.4194,-23.0693 -77.384,18.7383 z"
@@ -325,7 +392,12 @@
            x="-76.093979"
            y="1126.3602"
            id="tspan90-9-3-1-8-0-1-5-3"
-           sodipodi:role="line">春江市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-76.093979"
+           y="1139.6935"
+           sodipodi:role="line"
+           id="tspan307">春江市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
          d="m -351.21555,825.02888 -3.9545,-23.23169 78.90625,-18.625 73.5937,45.25 73.9688,-0.094 76.929,-13.9224 101.9118,-14.6283 -34.8408,66.7382 11.1875,158.65631 27.625,59.0625 50.22718,107.9456 -224.47718,38.4294 -94.25005,-187.7813 -66.5312,-103.1875 -64,-4.46871 z"
@@ -345,10 +417,15 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="2203.2251"
            y="930.7868"
-           sodipodi:role="line">高島市</tspan><tspan
+           sodipodi:role="line">高島県</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="2203.2251"
            y="944.12012"
+           sodipodi:role="line"
+           id="tspan245">高島市</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2203.2251"
+           y="957.45343"
            id="tspan90-9-3-1-8-7"
            sodipodi:role="line">砂岩区</tspan></text>
       <path
@@ -370,10 +447,15 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="2399.4968"
            y="1138.6738"
-           sodipodi:role="line">高島市</tspan><tspan
+           sodipodi:role="line">高島県</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="2399.4968"
            y="1152.0071"
+           sodipodi:role="line"
+           id="tspan246">高島市</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2399.4968"
+           y="1165.3405"
            id="tspan90-9-3-1-8-7-5"
            sodipodi:role="line">戸有区</tspan></text>
       <path
@@ -395,7 +477,12 @@
            x="1756.9769"
            y="1743.2485"
            id="tspan90-9-3-1-8-7-5-1"
-           sodipodi:role="line">小野宮市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1756.9769"
+           y="1756.5818"
+           sodipodi:role="line"
+           id="tspan274">小野宮市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
          d="m 1682.6933,1434.4137 -85.7918,127.546 -31.5291,0.015 -23.1248,119.4975 -82.9374,381.8294 329.926,-11.2548 454.1152,-246.6188 256.8848,38.6188 98.25,9.75 58.75,0.026 v -113.2763 l -64.5,-42 -337,-29.5 -147.75,-138.25 -116.5625,-27.625 -185.7378,16.4136 -119.2739,-28.2737 z"
@@ -416,7 +503,12 @@
            x="2564.1777"
            y="1395.2958"
            id="tspan90-9-3-1-8-7-5-2"
-           sodipodi:role="line">海辺市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2564.1777"
+           y="1408.629"
+           sodipodi:role="line"
+           id="tspan250">海辺市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
          d="m 2108.4389,1531.0145 139.7973,-136.8736 12.0625,-104.0781 135.375,-35.5156 180.5625,-58.4375 77.9566,-62.0693 h 2.6737 l 0.1197,606.6318 -64.5,-42.375 -336.7039,-29.2201 z"
@@ -435,7 +527,12 @@
            x="2589.8027"
            y="427.14749"
            id="tspan90-9-3-1-8-7-3-5"
-           sodipodi:role="line">積音市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2589.8027"
+           y="440.4808"
+           sodipodi:role="line"
+           id="tspan148">積音市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;paint-order:markers fill stroke"
          d="m 1877.1619,244.26575 48.6263,-4.20742 87.6813,-8.48529 110.3086,-12.02081 86.267,-74.95332 73.5391,-9.19239 45.2549,1.41422 135.1076,-0.91674 132.1787,12.28427 60.988,65 -0.3109,522.17123 -115.5,-1.3125 -116.5937,-23.4375 -158.4266,-192.59191 -86.0681,-14.03165 -4.021,-128.98581 -136.9062,-53.95313 -92.1406,2.03125 -69.7188,-41.9375 z"
@@ -455,11 +552,16 @@
            id="tspan14-2-4-8-9-3-8-1-4-9-6-3-2-1-78-3-8-5-0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1038.8667"
-           y="326.15356">高島市</tspan><tspan
+           y="326.15356">高島県</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1038.8667"
            y="339.48688"
+           id="tspan283">高島市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1038.8667"
+           y="352.82016"
            id="tspan90-9-3-1-4-5">北区</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -482,11 +584,16 @@
            id="tspan14-2-4-8-9-3-8-1-4-9-6-3-2-1-78-3-8-5-0-7"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1569.3524"
-           y="343.99808">高島市</tspan><tspan
+           y="343.99808">高島県</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1569.3524"
            y="357.33139"
+           id="tspan126">高島市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1569.3524"
+           y="370.66467"
            id="tspan90-9-3-1-4-5-2">川島区</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -509,10 +616,15 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="2588.4768"
            y="817.41382"
-           sodipodi:role="line">高島市</tspan><tspan
+           sodipodi:role="line">高島県</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="2588.4768"
            y="830.74713"
+           sodipodi:role="line"
+           id="tspan243">高島市</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2588.4768"
+           y="844.08044"
            id="tspan90-9-3-1-8-7-3"
            sodipodi:role="line">杉田区</tspan></text>
       <path
@@ -534,17 +646,18 @@
            x="2267.9724"
            y="3412.6394"
            id="tspan90-9-3-1-8-7-3-1"
-           sodipodi:role="line">岡田市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2267.9724"
+           y="3425.9727"
+           sodipodi:role="line"
+           id="tspan254">岡田市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1266.161,3475.9142 -2.2097,111.5903 86.1787,32.0408 106.8173,62.0044 61.1615,17.0425 105.7378,7.0544 83.1513,-97.1499 159.0271,-21.4117 98.4375,67.1875 62.5,35.9375 H 2294.15 l 24.2717,2.812 0.8037,-210.9363 67.0565,-200.2973 -151.9543,6.8724 -161.7958,-8.8008 -189.3193,-52.15 -92.1875,67.1875 -145.3125,9.375 h -178.125 l -161.0993,126.8951 z"
          id="path260"
          sodipodi:nodetypes="cccccccccccccccccccccc" />
     </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer4"
-       inkscape:label="高島県岡田市" />
     <g
        id="g263"
        inkscape:label="高島県終山市">
@@ -559,7 +672,12 @@
            x="2569.5818"
            y="2021.328"
            id="tspan90-9-3-1-8-7-5-2-4"
-           sodipodi:role="line">終山市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2569.5818"
+           y="2034.6613"
+           sodipodi:role="line"
+           id="tspan251">終山市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 2656.8965,1853.7118 v 505.1947 88.3883 l -299.1394,4.4194 -78.4446,25.4117 -93.9127,-60.767 -121.5339,-98.332 -6.6292,-124.8486 -54.1378,-91.7029 -59.7301,-133.1404 299.8978,-162.9605 125.6881,19.0152 131.0547,19.7266 99.6094,9.7656 z"
@@ -584,7 +702,12 @@
            x="1863.7025"
            y="2153.6116"
            id="tspan90-9-3-1-8-7-5-1-6"
-           sodipodi:role="line">秋井市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1863.7025"
+           y="2166.9448"
+           sodipodi:role="line"
+           id="tspan273">秋井市</tspan></text>
     </g>
     <g
        id="g265"
@@ -600,7 +723,12 @@
            x="2588.4795"
            y="2568.564"
            id="tspan90-9-3-1-8-7-5-2-4-8"
-           sodipodi:role="line">朝日丘市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2588.4795"
+           y="2581.8972"
+           sodipodi:role="line"
+           id="tspan252">朝日丘市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1830.8688,2392.5538 19.9219,117.5781 70.549,141.561 56.3475,65.1864 153.9166,1.9473 305.515,3.4147 220.1229,-1.0116 -0.6215,-273.9349 -298.4487,4.4194 -78.7675,25.3611 -92.485,-59.7496 -78.9018,-63.4438 -83.2355,56.6765 -104.118,0.062 z"
@@ -624,8 +752,13 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1769.2144"
            y="2663.8218"
-           id="tspan90-9-3-1-8-7-5-2-4-8-4"
-           sodipodi:role="line">北子市</tspan></text>
+           sodipodi:role="line"
+           id="tspan270">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1769.2144"
+           y="2677.155"
+           sodipodi:role="line"
+           id="tspan271">北子市</tspan></text>
     </g>
     <g
        id="g269"
@@ -641,7 +774,12 @@
            x="2586.4849"
            y="2860.8284"
            id="tspan90-9-3-1-8-7-5-2-4-8-41"
-           sodipodi:role="line">志木野山市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2586.4849"
+           y="2874.1616"
+           sodipodi:role="line"
+           id="tspan253">志木野山市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1803.3965,2752.718 15.7535,88.2733 28.9063,133.5937 148.4135,73.7506 260.7456,19.8874 h 400.0954 l -0.024,-347.0071 -68.6949,0.3257 -136.5776,0.6176 -15.0867,0.1428 -23.0492,-0.323 -433.0092,-5.0115 z"
@@ -662,7 +800,12 @@
            x="1380.4084"
            y="2883.5056"
            id="tspan90-9-3-1-8-7-5-2-4-8-4-2"
-           sodipodi:role="line">徳田市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1380.4084"
+           y="2896.8389"
+           sodipodi:role="line"
+           id="tspan269">徳田市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1265.6957,2744.6834 -28.364,108.5506 -7.7015,127.895 54.2085,120.2396 199.9786,25.4116 301.6253,20.9923 97.8676,79.9375 188.9648,52.0687 161.9251,8.8821 422.7673,-19.3248 0.033,-201.1303 -399.9106,0.081 -260.5835,-19.9218 -148.4665,-73.7433 -44.6365,-221.85 -219.4092,-2.9907 -137.8906,-0.3907 -116.211,0.293 z"
@@ -683,7 +826,12 @@
            x="1443.9308"
            y="1775.6587"
            id="tspan90-9-3-1-8-7-5-1-8"
-           sodipodi:role="line">開田市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1443.9308"
+           y="1788.9919"
+           sodipodi:role="line"
+           id="tspan275">開田市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1199.8698,1782.1725 96.1223,97.2272 79.5495,135.8971 83.969,48.0611 16.6707,-77.5424 18.6846,-86.3903 13.9488,-63.5637 9.5541,-44.3819 13.2812,-62.1094 6.9336,-30.7617 10.3516,-51.8555 16.4551,-84.3262 0.1863,-104.5118 -18.748,7.1298 -241.5457,-20.0496 -15.2832,-123.877 -134.7729,-89.5775 -38.2252,3.8842 17.2119,98.0224 0.073,103.5401 8.1305,243.5385 z"
@@ -691,65 +839,31 @@
     </g>
     <g
        id="g273"
-       inkscape:label="高島県冬回市">
+       inkscape:label="高島県冬回市"
+       style="stroke-width:1.00157483;stroke-dasharray:none">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.00157483;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          x="1511.3141"
          y="2139.0103"
          id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-1-8"
          transform="translate(2.1582864e-5,3.5119133e-5)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:1.00157483;stroke-dasharray:none"
            x="1511.3141"
            y="2139.0103"
            id="tspan90-9-3-1-8-7-5-1-6-6"
-           sodipodi:role="line">冬回市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:1.00157483;stroke-dasharray:none"
+           x="1511.3141"
+           y="2152.3435"
+           sodipodi:role="line"
+           id="tspan272">冬回市</tspan></text>
       <path
-         style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
-         d="m 1363.112,1994.3045 -149.7078,17.1253 -25.964,37.565 1.381,109.933 12.1534,151.3651 53.033,24.3068 95.0175,14.3631 113.8,9.9437 100.5418,7.7339 14.5012,100.4728 73.5085,0.4894 199.6063,43.0142 -20.0341,-117.8051 -64.1425,-43.1778 -24.9364,-96.8625 -10.2199,-198.7011 -272.0013,9.1841 -84.1761,-48.0267 z"
+         style="fill:none;stroke:#000000;stroke-width:1.00157483;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m 1363.112,1994.3045 -149.588,17.102 -26.089,37.815 1.6069,110.4519 12.0284,150.8651 -50.1435,50.1715 3.2949,45.6485 -8.1244,69.0439 149.5008,35.9778 171.2805,40.6122 82.3005,-23.0459 27.3088,-62.6066 73.5085,0.4894 200.9865,43.7875 -20.0341,-117.8051 -64.1425,-43.1778 -24.9364,-96.8625 -10.2199,-198.7011 -272.0013,9.1841 -84.1761,-48.0267 z"
          id="path273"
-         transform="translate(2.1582864e-5,3.5119133e-5)" />
-    </g>
-    <g
-       id="g274"
-       inkscape:label="高島県悠回市">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="1323.8131"
-         y="2418.0156"
-         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-1-8-6"
-         transform="translate(2.1582864e-5,3.5119133e-5)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="1323.8131"
-           y="2418.0156"
-           id="tspan90-9-3-1-8-7-5-1-6-6-5"
-           sodipodi:role="line">悠回市</tspan></text>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
-         d="m 1201.1325,2310.4737 -50.3418,50.0488 3.2276,45.3403 134.2398,29.831 98.8845,24.3068 120.9815,19.8874 61.4166,6.1228 8.3984,-19.3359 -14.5032,-100.0344 -213.8171,-17.4461 -95.1172,-14.3555 -38.1712,-17.6282 z"
-         id="path274"
-         sodipodi:nodetypes="ccccccccccccc" />
-    </g>
-    <g
-       id="g275"
-       inkscape:label="高島県初山市">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="1341.2354"
-         y="2493.769"
-         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-1-8-6-6"
-         transform="translate(2.1582864e-5,3.5119133e-5)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="1341.2354"
-           y="2493.769"
-           id="tspan90-9-3-1-8-7-5-1-6-6-5-1"
-           sodipodi:role="line">初山市</tspan></text>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
-         d="m 1154.2086,2405.6397 -8.2519,70.1172 321.7712,77.0515 38.6009,-10.4961 44.2632,-12.4296 18.8516,-43.7108 -60.4498,-6.1181 -122.3633,-20.1172 -90.5003,-22.1711 -60.2145,-13.9488 -43.7799,-9.3913 z"
-         id="path275" />
+         transform="translate(2.1582864e-5,3.5119133e-5)"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
     </g>
     <g
        id="g276"
@@ -765,7 +879,12 @@
            x="1587.6575"
            y="3192.9817"
            id="tspan90-9-3-1-8-7-3-1-4"
-           sodipodi:role="line">花園市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1587.6575"
+           y="3206.3149"
+           sodipodi:role="line"
+           id="tspan268">花園市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1283.7008,3101.3429 -0.098,62.6953 17.5781,93.3593 41.4062,27.3438 27.568,96.5353 96.2604,-76.3386 151.8484,-0.8977 27.2041,0.3787 145.6543,-9.4726 92.0477,-67.1755 -97.9071,-79.9925 -301.515,-20.9981 z"
@@ -785,7 +904,12 @@
            x="1700.2905"
            y="3733.8994"
            id="tspan90-9-3-1-8-7-3-1-4-8"
-           sodipodi:role="line">山野家市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1700.2905"
+           y="3747.2327"
+           sodipodi:role="line"
+           id="tspan267">山野家市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1264.1696,3587.671 -84.7396,29.1121 -97.78,62.4894 26.5625,79.6875 75,132.8125 265.625,-15.625 37.5,-101.5625 95.3125,-14.0625 262.5,50 85.9375,35.9375 65.2774,-9.2584 26.5165,-68.501 5.1788,-78.5882 -55.6641,-31.8359 -18.164,-11.4258 -87.2071,-59.8633 -108.2262,14.7118 -34.892,4.6482 -4.6961,0.597 -10.4076,0.9868 -84.0173,97.7734 -105.6865,-7.0868 -61.1962,-17.0681 -108.1542,-62.2806 z"
@@ -798,15 +922,24 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="1228.5763"
-         y="1926.8138"
-         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8"
-         transform="translate(2.1582864e-5,3.5119133e-5)"><tspan
+         x="1210.8987"
+         y="1908.4291"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="1228.5763"
-           y="1926.8138"
+           x="1210.8987"
+           y="1908.4291"
            id="tspan90-9-3-1-8-7-5-1-8-2"
-           sodipodi:role="line">真斉町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1210.8987"
+           y="1921.7623"
+           sodipodi:role="line"
+           id="tspan295">南小野宮郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1210.8987"
+           y="1935.0957"
+           sodipodi:role="line"
+           id="tspan294">真斉町</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1363.0775,1994.2355 -149.2009,17.1659 h -193.1641 l -43.75,-97.7539 -18.75,-95.3125 233.7891,-50.0976 7.8125,14.1113 96.0449,97.1191 z"
@@ -826,7 +959,17 @@
            x="1114.1577"
            y="1737.7462"
            id="tspan90-9-3-1-8-7-5-1-8-2-1"
-           sodipodi:role="line">其正町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1114.1577"
+           y="1751.0795"
+           sodipodi:role="line"
+           id="tspan287">南小野宮郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1114.1577"
+           y="1764.4128"
+           sodipodi:role="line"
+           id="tspan286">其正町</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1191.9977,1768.2237 -49.8008,-87.3887 -1.3672,-54.5898 -243.5547,-25.0977 -17.1875,70.3125 23.4375,75 55.0722,72.1036 z"
@@ -851,7 +994,12 @@
            x="906.58966"
            y="4100.0293"
            id="tspan90-9-3-1-8-7-3-1-4-1"
-           sodipodi:role="line">夢見市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="906.58966"
+           y="4113.3628"
+           sodipodi:role="line"
+           id="tspan331">夢見市</tspan></text>
     </g>
     <g
        id="g231"
@@ -867,7 +1015,12 @@
            x="624.13177"
            y="4043.3103"
            id="tspan90-9-3-1-8-7-3-1-4-1-1"
-           sodipodi:role="line">夕立市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="624.13177"
+           y="4056.6436"
+           sodipodi:role="line"
+           id="tspan332">夕立市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 315.9863,3707.9336 19.8873,167.9379 62.9639,314.3385 -8.826,115.4498 h 240.6511 l 107.1018,-422.883 3.4527,-12.1534 5.9386,-24.1687 33.9743,-100.2655 15.8822,-43.7799 89.5206,-28.4102 -1.5465,-84.2849 L 812.9,3190.21 298.8375,3010.5225 H 181.65 Z"
@@ -887,7 +1040,12 @@
            x="832.19464"
            y="1832.2736"
            id="tspan90-9-3-1-8-7-5-1-8-2-1-1"
-           sodipodi:role="line">大上市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="832.19464"
+           y="1845.6068"
+           sodipodi:role="line"
+           id="tspan285">大上市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 476.1211,1700.9657 80.5289,347.0568 42.1875,154.6875 v 108.2031 l 213.5742,22.8516 252.9297,122.5342 80.8594,19.3603 7.9102,-69.5312 -3.2691,-45.4952 50.2417,-50.0615 -12.1094,-150.2441 -1.5625,-111.0352 26.3184,-38.1347 -15.0391,0.3906 -177.9975,-0.2735 -43.6591,-97.5552 -18.7134,-95.3627 -54.7472,-71.75 -23.3886,-74.9512 z"
@@ -908,7 +1066,12 @@
            x="-38.29224"
            y="2777.2336"
            id="tspan90-9-3-1-8-7-5-1-8-2-1-1-5"
-           sodipodi:role="line">勝浜市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-38.29224"
+           y="2790.5669"
+           sodipodi:role="line"
+           id="tspan296">勝浜市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 464.4511,2296.4822 -454.5095,116.2122 -373.6041,41.5781 -102.3437,-2.3437 v 321.875 l 365.46237,108.8035 282.38913,128.3058 117.0157,-0.5569 454.64757,-121.7411 246.29347,-10.2576 229.86426,102.7891 7.8431,-127.46 28.3203,-108.8867 -379.4434,-29.6387 -249.9511,-70.2148 -162.6953,-226.6114 -3.5645,-47.9492 -4.541,-56.7871 z"
@@ -935,7 +1098,12 @@
            x="1783.1963"
            y="4005.5801"
            id="tspan90-9-3-1-8-7-3-1-4-8-3"
-           sodipodi:role="line">千崎市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1783.1963"
+           y="4018.9133"
+           sodipodi:role="line"
+           id="tspan266">千崎市</tspan></text>
     </g>
     <g
        id="g243"
@@ -951,7 +1119,12 @@
            x="1191.4581"
            y="3174.0449"
            id="tspan90-9-3-1-8-7-3-1-4-7"
-           sodipodi:role="line">佐木沢市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1191.4581"
+           y="3187.3782"
+           sodipodi:role="line"
+           id="tspan337">佐木沢市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 1369.9483,3381.0348 -63.4448,50.142 -40.1855,44.6778 -60.924,-27.0093 -4.9718,-120.9816 -145.9012,-113.2267 -126.22367,-61.0442 71.55355,-275.1852 139.88032,62.8053 90.0293,39.9971 54.0353,119.9677 -0.757,62.1808 18.1425,94.039 41.1456,27.1007 z"
@@ -973,7 +1146,12 @@
            x="-112.46593"
            y="4043.3232"
            id="tspan90-9-3-1-8-7-3-1-4-1-1-0"
-           sodipodi:role="line">北九津市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-112.46593"
+           y="4056.6565"
+           sodipodi:role="line"
+           id="tspan320">北九津市</tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m -323.7244,3999.6151 36.4602,181.1962 44.1942,172.3572 v 57.4525 l 113.7825,-112.5 59.375003,-62.5985 -13.313776,-284.2601 83.99293574,-49.3089 -149.64651274,-442.6683 -210.09515,9.5051 31.75922,239.0165 z"
@@ -995,7 +1173,12 @@
            x="-271.73056"
            y="3318.21"
            sodipodi:role="line"
-           id="tspan249">下加新川市</tspan></text>
+           id="tspan249">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-271.73056"
+           y="3331.5432"
+           sodipodi:role="line"
+           id="tspan312">下加新川市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 6401.4569,9301.4925 88.0597,-25.5838 102.5275,195.5441 56.3933,0.4221 -50,-239.0625 -248.4375,-546.875 -134.375,-329.6875 -359.375,6.25 -43.75,84.375 -3.125,159.375 181.1524,116.3086 196.7951,-9.2629 13.4588,-0.4051 105.8593,314.0625 89.7755,259.3477 12.9821,36.8055 z"
@@ -1018,13 +1201,44 @@
            x="1927.0621"
            y="4326.8398"
            id="tspan90-9-3-1-8-7-3-1-4-8-3-0"
-           sodipodi:role="line">九津箱崎市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1927.0621"
+           y="4340.1733"
+           sodipodi:role="line"
+           id="tspan263">九津箱崎市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 7788.7382,9459.3827 -48.1288,147.3257 -46.4038,153.5748 -2.9426,115.3773 82.3522,34.4722 99.5181,2.268 192.1344,12.5369 303.4822,62.5623 328.125,-75 349.8719,6.1137 0.5168,-317.4262 -497.7672,-0.2112 -140.6021,-79.6131 -460.8983,-68.0976 z"
          id="path253"
          transform="translate(-6349.6,-5253.54)"
          sodipodi:nodetypes="ccccccccccccccc" />
+    </g>
+    <g
+       id="g340"
+       inkscape:label="朝河県西山市">
+      <path
+         style="stroke-width:1.00157483;stroke-dasharray:none;fill:none;stroke:#000000;stroke-miterlimit:3"
+         d="m -940.2489,1665.1472 -181.7813,222.7499 v 326.0003 l 262,204 394.0938,34.531 -27.0014,-42.353 -120.1198,-190.123 -89.4726,-207.7427 -93.9375,-132.5313 -46.125,-154.5312 z"
+         id="path337"
+         transform="translate(-1.8222762e-4,-1.7744742e-4)" />
+      <text
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-738.00403"
+         y="2272.5654"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-9-6"
+         transform="translate(1.777239e-5,2.2552587e-5)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-738.00403"
+           y="2272.5654"
+           sodipodi:role="line"
+           id="tspan296-4">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-738.00403"
+           y="2285.8987"
+           sodipodi:role="line"
+           id="tspan340">西山市</tspan></text>
     </g>
     <g
        id="g262"
@@ -1040,7 +1254,17 @@
            x="246.5892"
            y="3797.6541"
            id="tspan90-9-3-1-8-7-3-1-4-1-1-9"
-           sodipodi:role="line">上加町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="246.5892"
+           y="3810.9873"
+           sodipodi:role="line"
+           id="tspan313">上下郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="246.5892"
+           y="3824.3206"
+           sodipodi:role="line"
+           id="tspan319">上加町</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 298.861,4218.2382 97.0468,9.716 2.9785,-37.6465 -60.3886,-301.0399 -23.45671,-179.9388 -133.20315,-698.4375 -282.3423,-128.2605 -365.55345,-108.8418 -0.001,-157.0198 -296.19971,32.5949 269.45849,459.5119 357.35819,-6.6654 114.600816,278.1286 20.14177659,49.6327 2.52899441,5.5865 8.687595,19.1288 47.207318,104.0773 191.211,420.3125 z"
@@ -1061,7 +1285,17 @@
            x="1290.1068"
            y="4307.9292"
            id="tspan90-9-3-1-8-7-3-1-4-8-3-0-6"
-           sodipodi:role="line">下加町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1290.1068"
+           y="4321.2627"
+           sodipodi:role="line"
+           id="tspan333">上下郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1290.1068"
+           y="4334.5957"
+           sodipodi:role="line"
+           id="tspan334">下加町</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 845.7125,4485.5225 -16.87498,437.9719 475.40738,56.6126 0.3286,-6.9094 35.6515,-119.9945 58.7298,-181.1102 12.3468,-107.1032 -27.0593,-188.8954 24.3068,-92.5316 22.5114,-90.4599 14.0869,-54.276 -180.9889,-56.2785 -76.8444,-47.2211 -299.4276,270.6088 z"
@@ -1089,14 +1323,24 @@
            x="-404.01401"
            y="4194.5435"
            id="tspan90-9-3-1-8-7-3-1-4-1-1-0-6"
-           sodipodi:role="line">内羽町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-404.01401"
+           y="4207.877"
+           sodipodi:role="line"
+           id="tspan324">南岡田郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-404.01401"
+           y="4221.21"
+           sodipodi:role="line"
+           id="tspan323">内羽町</tspan></text>
     </g>
     <g
        id="g272"
        inkscape:label="高島県総北町">
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
-         d="m 6279.8539,9489.0415 90.4585,310.9584 78.125,85.9375 210.9375,23.4375 106.25,-95.3125 -109.375,-101.5625 -167.1875,-75 -22.9024,-160.7499 -42.2607,-113.3857 -56.3213,-158.2863 -16.7968,-49.2187 -84.375,49.0234 z"
+         d="m 6279.8539,9489.0415 90.4585,310.9584 78.125,85.9375 210.9375,23.4375 105.3437,-94.6875 -108.4687,-102.1875 -167.1875,-75 -22.9024,-160.7499 -42.2607,-113.3857 -56.3213,-158.2863 -16.7968,-49.2187 -84.375,49.0234 z"
          id="path272"
          transform="translate(-6349.6,-5253.54)"
          sodipodi:nodetypes="ccccccccccccc" />
@@ -1111,7 +1355,17 @@
            x="36.992325"
            y="4282.0674"
            id="tspan90-9-3-1-8-7-3-1-4-1-1-0-1"
-           sodipodi:role="line">総北町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="36.992325"
+           y="4295.4009"
+           sodipodi:role="line"
+           id="tspan321">南岡田郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="36.992325"
+           y="4308.7339"
+           sodipodi:role="line"
+           id="tspan322">総北町</tspan></text>
     </g>
     <g
        id="g278"
@@ -1127,7 +1381,17 @@
            x="453.04636"
            y="4376.7837"
            id="tspan90-9-3-1-8-7-3-1-4-1-1-07"
-           sodipodi:role="line">鳥居町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="453.04636"
+           y="4390.1172"
+           sodipodi:role="line"
+           id="tspan326">南岡田郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="453.04636"
+           y="4403.4502"
+           sodipodi:role="line"
+           id="tspan325">鳥居町</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 52.3531,4047.7295 87.547,-26.1554 102.6874,196.5656 56.3477,0.098 96.8768,9.7201 -5.5682,78.0728 240.4785,-0.2929 -34.7935,137.753 116.8383,96.5366 -160.94335,11.2834 -136.97065,9.6027 -108.12,-101.8166 -167.2218,-75.1365 -22.8131,-161.0262 z"
@@ -1149,7 +1413,17 @@
            x="2456.196"
            y="4005.5801"
            id="tspan90-9-3-1-8-7-3-1-4-8-3-4"
-           sodipodi:role="line">岡田町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2456.196"
+           y="4018.9133"
+           sodipodi:role="line"
+           id="tspan260">岡田郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2456.196"
+           y="4032.2466"
+           sodipodi:role="line"
+           id="tspan259">岡田町</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 2657.1383,3874.0967 -143.0443,-0.9874 -280.1002,109.0929 -38.4766,106.6406 h 461.7245 z"
@@ -1170,7 +1444,17 @@
            x="2570.3347"
            y="3752.7839"
            id="tspan90-9-3-1-8-7-3-1-4-8-3-4-7"
-           sodipodi:role="line">奈子町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2570.3347"
+           y="3766.1172"
+           sodipodi:role="line"
+           id="tspan258">岡田郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2570.3347"
+           y="3779.4504"
+           sodipodi:role="line"
+           id="tspan257">奈子町</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 2234.1515,3981.7994 280.0669,-108.7281 142.9197,1.1774 -0.034,-158.9264 -134.9262,-0.015 -203.9551,-22.461 -23.3038,119.7028 z"
@@ -1191,7 +1475,17 @@
            x="2493.6853"
            y="4232.3647"
            id="tspan90-9-3-1-8-7-3-1-4-8-3-4-5"
-           sodipodi:role="line">並川町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2493.6853"
+           y="4245.6982"
+           sodipodi:role="line"
+           id="tspan262">岡田郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2493.6853"
+           y="4259.0312"
+           sodipodi:role="line"
+           id="tspan261">並川町</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 2195.2125,4088.8998 96.1875,725.0055 365.9151,-0.098 0.1904,-724.9446 z"
@@ -1216,7 +1510,17 @@
            x="1878.3082"
            y="4504.1401"
            id="tspan90-9-3-1-8-7-3-1-4-8-3-4-5-0"
-           sodipodi:role="line">寄子町</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1878.3082"
+           y="4517.4736"
+           sodipodi:role="line"
+           id="tspan265">岡田郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1878.3082"
+           y="4530.8066"
+           sodipodi:role="line"
+           id="tspan264">寄子町</tspan></text>
     </g>
     <g
        id="g286"
@@ -1232,7 +1536,17 @@
            x="2493.9912"
            y="3438.6509"
            id="tspan90-9-3-1-8-7-3-1-7"
-           sodipodi:role="line">麦谷村</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2493.9912"
+           y="3451.9841"
+           sodipodi:role="line"
+           id="tspan256">岡田郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2493.9912"
+           y="3465.3174"
+           sodipodi:role="line"
+           id="tspan255">麦谷村</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 2318.4657,3692.8109 0.4144,-80.4472 0.1381,-73.1966 0.2071,-57.3834 67.0405,-200.0669 270.6306,-12.2723 v 446.2231 l -135.2065,-0.2072 z"
@@ -1253,7 +1567,12 @@
            x="-548.52844"
            y="1163.8921"
            sodipodi:role="line"
-           id="tspan288">苑理山市</tspan></text>
+           id="tspan288">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-548.52844"
+           y="1177.2253"
+           sodipodi:role="line"
+           id="tspan310">苑理山市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m -619.5219,567.1631 -173.0468,-3.5156 -124.2188,59.375 4.6875,90.625 -3.125,323.4375 -4.6875,203.125 190.625,71.875 117.1875,114.0625 363.6719,-64.4531 -93.9407,-51.1566 -35.8387,-19.8183 -1.1739,-137.1401 -63.6756,-69.0335 -49.2958,-90.4798 9.1841,-183.8202 -57.3488,-12.9647 z"
@@ -1273,7 +1592,12 @@
            x="114.26667"
            y="2040.2257"
            id="tspan90-9-3-1-8-7-5-1-8-2-1-1-8"
-           sodipodi:role="line">久留川市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="114.26667"
+           y="2053.5591"
+           sodipodi:role="line"
+           id="tspan299">久留川市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m -212.1,1918.335 236.40468,-29.2679 -13.53438,523.8391 453.6922,-116.2509 134.7118,14.19 0.054,-108.3306 -23.20437,-83.444 -25.81647,-98.3521 -74.12066,-319.6666 -94.41081,-162.7174 -257.49649,18.5258 -177.7668,43.0111 -156.8893,88.9408 z"
@@ -1295,7 +1619,12 @@
            x="-309.52582"
            y="1794.5564"
            id="tspan90-9-3-1-8-7-5-1-8-2-1-1-8-2"
-           sodipodi:role="line">夜見市</tspan></text>
+           sodipodi:role="line">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-309.52582"
+           y="1807.8896"
+           sodipodi:role="line"
+           id="tspan300">夜見市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m 123.9488,1556.9203 -75.4043,-66.9056 -60.8886,-53.7598 -3.418,-2.5879 -16.8457,-13.7207 -58.2031,-47.0214 -158.2668,-11.4257 -362.9246,64.5507 -39.8638,118.5789 v 302.7301 l 310.9317,179.5165 56.9594,100.8346 118.75,34.375 H 17.2268 l 1.5537,-59.9881 1.5191,-59.0062 1.9681,-80.0674 2.1061,-74.0943 -236.4738,29.406 0.6348,-85.3515 0.9765,-133.5938 0.098,-10.5957 29.1504,-16.5039 127.8257,-72.4186 z"
@@ -1314,8 +1643,29 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="-397.34735"
            y="2241.0706"
-           id="tspan90-9-3-1-8-7-5-1-8-2-1-1-8-2-1"
-           sodipodi:role="line">夜河市</tspan></text>
+           sodipodi:role="line"
+           id="tspan297">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-397.34735"
+           y="2254.4038"
+           sodipodi:role="line"
+           id="tspan298">夜河市</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-397.3472"
+         y="2241.0703"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-1-8-7-1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-397.3472"
+           y="2241.0703"
+           sodipodi:role="line"
+           id="tspan297-7">高島県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-397.3472"
+           y="2254.4036"
+           sodipodi:role="line"
+           id="tspan298-1">夜河市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
          d="m -920.0695,1240.1033 -20.1636,424.9546 97.9664,61.0867 45.6646,153.255 93.91262,132.5826 89.4932,207.7126 146.99468,232.6246 103.0477,1.9498 374.0031,-41.6959 6.4121,-250.3309 -182.4736,-0.069 -118.8359,-34.4877 -56.8604,-100.6592 -311.084,-179.7851 0.057,-302.4053 39.9329,-118.6397 -117.3828,-114.1601 z"
@@ -1341,7 +1691,12 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="586.67706"
            y="-88.645119"
-           id="tspan110">東野市</tspan></text>
+           id="tspan110">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="586.67706"
+           y="-75.311813"
+           id="tspan11">東野市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;stroke-dasharray:none"
          d="m 270.2867,417.9602 0.047,-5.375 -129.8762,-251.1665 12.728,-299.8132 21.2132,-120.2082 107.4802,-271.529 284.2569,-33.234 111.0158,-39.598 78.4888,-26.1629 150.3339,-16.2882 254.1312,-13.4103 207.8688,35.4103 134.3709,81.96945 46.669,148.49242 -33.9411,265.87207 -12.7279,135.76456 -101.8234,22.6274 -47.4225,196.8366 -59.2813,-23.2812 -92.4351,-77.7424 -11.0486,-0.8839 -81.9225,-13.4362 -11.1283,31.4232 -124.5904,146.0455 -83.4532,35.3906 -1.4589,151.6112 -69.3692,-103.5643 -381.0937,22.3125 -0.2188,1.1563 z"
@@ -1372,7 +1727,12 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1738.0813"
            y="181.20621"
-           id="tspan110-5">久々利野市</tspan></text>
+           id="tspan110-5">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1738.0813"
+           y="194.53951"
+           id="tspan101">久々利野市</tspan></text>
     </g>
     <g
        id="g123"
@@ -1393,11 +1753,547 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1970.4172"
            y="-208.89496"
-           id="tspan110-5-3">長屋岐市</tspan></text>
+           id="tspan110-5-3" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1970.4172"
+           y="-195.56166"
+           id="tspan25">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1970.4172"
+           y="-182.22836"
+           id="tspan26">長屋岐市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;stroke-dasharray:none"
          d="m 1502.4733,8.5115 12.4965,-134.8279 9.5564,-75.006 25.4436,-199.4628 168,-50.625 285.9999,6 150,320 30.2871,292.6672 -60.5902,52.4585 -173.8843,18.1243 -83.8125,-158.25 -108.6875,-31.3125 -26.5,-8.6875 -118.0625,-39.25 z"
          id="path148" />
+    </g>
+    <g
+       id="g341"
+       inkscape:label="朝河県邦枝市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -1121.8209,2213.9414 29.0798,379.805 46.7109,262.151 238.2531,-21.735 128.1631,-44.017 -82.588,-140.764 296.3281,-32.547 -0.1055,-164.774 -393.8142,-34.207 z"
+         id="path340"
+         transform="translate(1.777239e-5,2.2552587e-5)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-737.50476"
+         y="2531.564"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-9-1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-737.50476"
+           y="2531.564"
+           sodipodi:role="line"
+           id="tspan296-8">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-737.50476"
+           y="2544.8972"
+           sodipodi:role="line"
+           id="tspan341">邦枝市</tspan></text>
+    </g>
+    <g
+       id="g347"
+       inkscape:label="朝河県城砂市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -1045.9052,2855.7724 12.6321,249.405 -622.0711,364.009 886.458,62.184 410.0435,-62.161 -181.4687,-116.5 3.2187,-159.5 44,-84.562 -186.6875,-318.406 -128.0625,43.968 z"
+         id="path345"
+         sodipodi:nodetypes="ccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-699.70947"
+         y="2966.2097"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-9-8"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-699.70947"
+           y="2966.2097"
+           sodipodi:role="line"
+           id="tspan296-2">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-699.70947"
+           y="2979.543"
+           sodipodi:role="line"
+           id="tspan345">城砂市</tspan></text>
+    </g>
+    <g
+       id="g352"
+       inkscape:label="朝河県折田市">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-2060.8389"
+         y="4067.8438"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-9-3"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2060.8389"
+           y="4067.8438"
+           sodipodi:role="line"
+           id="tspan296-23">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2060.8389"
+           y="4081.1768"
+           sodipodi:role="line"
+           id="tspan352">折田市</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m 5820.896,11324.953 -121.8702,69.46 -383.4504,113.496 -179.1518,131.068 -16.9705,557.2 766.5038,-5.656 280.0143,-427.093 -72.9711,-376.053 -197.4203,-52.902 z"
+         id="path352"
+         transform="translate(-7748.03,-7918.1)"
+         sodipodi:nodetypes="cccccccccc" />
+    </g>
+    <g
+       id="g354"
+       inkscape:label="朝河県豊井原市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -326.9052,3731.087 -475.9222,61.915 -779.2316,52.326 -72.8461,-376.053 78.8565,5.706 804.5991,56.303 412.862,-61.96 31.5546,238.295 z"
+         id="path354"
+         transform="translate(-1.8222762e-4,-1.7744749e-4)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="6424.6982"
+         y="11602.423"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-9-38"
+         transform="translate(-7748.03,-7918.1)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="6424.6982"
+           y="11602.423"
+           sodipodi:role="line"
+           id="tspan296-42">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="6424.6982"
+           y="11615.756"
+           sodipodi:role="line"
+           id="tspan354">豊井原市</tspan></text>
+    </g>
+    <g
+       id="g356"
+       inkscape:label="朝河県おかみ沢市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -326.9677,3731.275 0.5,37.812 1.3793,101.785 -412.9418,109.028 -987.9999,85.187 144.0312,-219.687 779.967,-52.221 z"
+         id="path356" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-992.08191"
+         y="3947.3"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-9-19"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-992.08191"
+           y="3947.3"
+           sodipodi:role="line"
+           id="tspan296-6">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-992.08191"
+           y="3960.6333"
+           sodipodi:role="line"
+           id="tspan356">おかみ沢市</tspan></text>
+    </g>
+    <g
+       id="g358"
+       inkscape:label="朝河県里原市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -1725.9364,4065.087 987.9861,-85.232 412.7294,-108.894 1.5657,129.564 34.6293,171.133 -112.1648,-83.969 -97.404,-1.724 -1.8119,110.574 -276.9649,-1.9 -1031.9339,-2.917 z"
+         id="path358"
+         transform="translate(-1.8222762e-4,-1.7744749e-4)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-870.28748"
+         y="4086.7412"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-9-60"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-870.28748"
+           y="4086.7412"
+           sodipodi:role="line"
+           id="tspan296-48">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-870.28748"
+           y="4100.0747"
+           sodipodi:role="line"
+           id="tspan358">里原市</tspan></text>
+    </g>
+    <g
+       id="g363"
+       inkscape:label="朝河県尾田沼市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -500.4677,4196.65 -0.75,29.625 -0.9375,62.312 -196.0204,21.31 -507.8546,176.003 h -867.9999 l 26,-83 174,-103 12.0894,-27.479 52.8562,-80.743 573.8043,1.472 z"
+         id="path362" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-1191.0481"
+         y="4326.8423"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-9-0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-1191.0481"
+           y="4326.8423"
+           sodipodi:role="line"
+           id="tspan296-1">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-1191.0481"
+           y="4340.1758"
+           sodipodi:role="line"
+           id="tspan363">尾田沼市</tspan></text>
+    </g>
+    <g
+       id="g11"
+       inkscape:label="朝河県朝河市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -1303.5473,4485.967 29.5171,189.933 -5.3871,396.965 -121.6224,322.441 387.4945,181.019 387.4945,-25.455 137.1787,-569.928 18.3848,-373.353 214.457,-5.689 11.875,-152.313 -217.0312,3.063 -42.358,-96.702 1.2374,-67.264 -195.6607,21.153 -507.8125,176.188 z"
+         id="path363" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-810.99298"
+         y="5175.7241"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5-19-8-7-6-9-4"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-810.99298"
+           y="5175.7241"
+           sodipodi:role="line"
+           id="tspan296-60">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-810.99298"
+           y="5189.0576"
+           sodipodi:role="line"
+           id="tspan364">朝河市</tspan></text>
+    </g>
+    <g
+       id="g346"
+       inkscape:label="朝河県根座市">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-82.960342"
+         y="4772.5684"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-8"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-82.960342"
+           y="4772.5684"
+           sodipodi:role="line"
+           id="tspan322-5">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-82.960342"
+           y="4785.9019"
+           sodipodi:role="line"
+           id="tspan346">根座市</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157483;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -470.4989,4607.619 -10.5312,210.531 147.0146,35.512 427.9853,76.238 219.0173,1.544 -3.2261,-275.683 -211.2286,-23.299 -77.8438,-86.062 -90.423,-310.749 -44.1941,46.316 -18.65,19.533 -110.2644,108.983 -1.1933,39.775 -12.0208,151.851 z"
+         id="path343"
+         transform="translate(1.777239e-5,2.2552514e-5)" />
+    </g>
+    <g
+       id="g355"
+       inkscape:label="朝河県本庄谷口市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m 829.1751,4923.312 -57.9828,358.857 -14.1421,237.588 -393.1514,42.426 -16.9705,-243.244 -33.8334,-387.914 -1.25,-99.75 -1.375,-115.375 -0.5,-60.375 105.2031,-94.406 297.5469,-20.969 -93.4375,245.312 213.0747,35.143 0.26518,0.09 z"
+         id="path353"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="566.12634"
+         y="5075.7671"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="566.12634"
+           y="5075.7671"
+           sodipodi:role="line"
+           id="tspan322-7">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="566.12634"
+           y="5089.1006"
+           sodipodi:role="line"
+           id="tspan355">本庄谷口市</tspan></text>
+    </g>
+    <g
+       id="g365"
+       inkscape:label="朝河県椎名市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -480.7844,4818.086 -1.2816,25.677 -6.9016,137.512 -38.309,159.119 254.2465,22.506 610.5008,45.642 -24.3068,-277.275 -219.569,-1.305 -220.2514,-39.353 -184.2897,-32.616 -24.3339,-4.593 z"
+         id="path359" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="36.992432"
+         y="5056.8696"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-3"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="36.992432"
+           y="5056.8696"
+           sodipodi:role="line"
+           id="tspan322-1">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="36.992432"
+           y="5070.2031"
+           sodipodi:role="line"
+           id="tspan365">椎名市</tspan></text>
+    </g>
+    <g
+       id="g368"
+       inkscape:label="朝河県松澤市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -527.3208,5140.483 -77.0218,320.667 235.3125,36.75 728.4687,-0.125 -18.9687,-254.938 -1.625,-15.187 -1.5,-19.313 -331.625,-24.5 -329.75,-25.437 z"
+         id="path367"
+         transform="translate(1.77724e-05, 2.25525e-05)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="48.331017"
+         y="5355.4521"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-6"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="48.331017"
+           y="5355.4521"
+           sodipodi:role="line"
+           id="tspan322-9">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="48.331017"
+           y="5368.7856"
+           sodipodi:role="line"
+           id="tspan368">松澤市</tspan></text>
+    </g>
+    <g
+       id="g375"
+       transform="translate(-7748.03, -7918.1)"
+       inkscape:label="朝河県六花市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -1400.8739,5395.4 -398.974,-159.9 -156.9777,-453.962 -24.0416,-227.689 9.8371,-37.199 1.625,-30.813 h 666 l 5.2495,34.778 24.2184,155.387 -3.0052,224.329 -2.6517,173.595 z"
+         id="path373"
+         transform="translate(7748.03, 7918.1)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="6103.1323"
+         y="12540.324"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-4"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="6103.1323"
+           y="12540.324"
+           sodipodi:role="line"
+           id="tspan322-2">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="6103.1323"
+           y="12553.657"
+           sodipodi:role="line"
+           id="tspan375">六花市</tspan></text>
+    </g>
+    <g
+       id="g378"
+       inkscape:label="朝河県西朝河市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="M 5119.5415,12196.266 5142,12506 l 80,374 360.0001,46 246,74 61.4688,-16.219 -98.0938,-283.844 -9.75,-90.562 -14.375,-137.438 -301.25,-15.937 -52,-124 -221.0079,-117.438 -5.9662,-18.826 z"
+         id="path377"
+         transform="translate(-7748.03,-7918.1)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-2249.6218"
+         y="4830.0981"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-13"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2249.6218"
+           y="4830.0981"
+           sodipodi:role="line"
+           id="tspan322-4">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2249.6218"
+           y="4843.4316"
+           sodipodi:role="line"
+           id="tspan378">西朝河市</tspan></text>
+    </g>
+    <g
+       id="g388"
+       inkscape:label="朝河県神野町">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -2626.1905,4195.346 -2.3865,83.085 22.6094,309.969 37.4947,175.46 42.3803,198.165 -191.9375,113.875 -312,14 -118,-178 -42,-294 -18,-216 158,-112 z"
+         id="path386" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-2816.551"
+         y="4603.3262"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-19"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2816.551"
+           y="4603.3262"
+           sodipodi:role="line"
+           id="tspan322-50">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2816.551"
+           y="4616.6597"
+           sodipodi:role="line"
+           id="tspan387">時山郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2816.551"
+           y="4629.9927"
+           sodipodi:role="line"
+           id="tspan388">神野町</tspan></text>
+    </g>
+    <g
+       id="g397"
+       inkscape:label="朝河県馬群町">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -3208.0301,4402.15 -48,-554.25 191.8753,-73.283 435.6247,-102.217 22.5938,42.062 -5.4934,6.415 -14.7254,474.648 -424.125,94.5 z"
+         id="path388"
+         transform="translate(-0.000182228, -0.000177447)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-2948.8345"
+         y="3923.0115"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-2"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2948.8345"
+           y="3923.0115"
+           sodipodi:role="line"
+           id="tspan322-6">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2948.8345"
+           y="3936.3447"
+           sodipodi:role="line"
+           id="tspan391">時山郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2948.8345"
+           y="3949.678"
+           sodipodi:role="line"
+           id="tspan397">馬群町</tspan></text>
+    </g>
+    <g
+       id="g403"
+       inkscape:label="朝河県九津中山町">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -2611.1203,3721.01 5.3475,-6.629 -22.6274,-41.852 -7.2479,-176.512 24.0417,-216.374 511.9453,-59.397 104.6518,87.681 67.8822,98.995 -121.9628,69.2752 -383.2171,113.2603 z"
+         id="path401"
+         sodipodi:nodetypes="ccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-2348.0732"
+         y="3412.7434"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2348.0732"
+           y="3412.7434"
+           sodipodi:role="line"
+           id="tspan322-3">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2348.0732"
+           y="3426.0767"
+           sodipodi:role="line"
+           id="tspan402">北岡見郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2348.0732"
+           y="3439.4099"
+           sodipodi:role="line"
+           id="tspan403">九津中山町</tspan></text>
+    </g>
+    <g
+       id="g415"
+       inkscape:label="朝河県目蔵町">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -2099.7801,3220.15 473.75,-248.25 162,-2 6,174 38,112 -10.5313,81.875 -224.1562,131.187 -197.8591,-52.5368 -74.6409,-9.7132 -68.0569,-99.05 z"
+         id="path413"
+         sodipodi:nodetypes="ccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-1625.9999"
+         y="3223.7988"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-46"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-1625.9999"
+           y="3223.7988"
+           sodipodi:role="line"
+           id="tspan322-61">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-1625.9999"
+           y="3237.1321"
+           sodipodi:role="line"
+           id="tspan414">北岡見郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-1625.9999"
+           y="3250.4653"
+           sodipodi:role="line"
+           id="tspan415">目蔵町</tspan></text>
+    </g>
+    <g
+       id="g419"
+       inkscape:label="朝河県大友村">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -1464.0301,2969.9 4,-346 121,-704 216.2275,-32.6189 0.9946,326.9059 29.1841,380.088 46.8438,261.875 4.3125,85.312 2.4375,51.188 5.875,112.719 -397,232.281 10.25,-81.75 -38,-112.5 z"
+         id="path415"
+         transform="translate(1.77724e-05, 2.25525e-05)"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-1311.3069"
+         y="2725.1104"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-37"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-1311.3069"
+           y="2725.1104"
+           sodipodi:role="line"
+           id="tspan322-29">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-1311.3069"
+           y="2738.4436"
+           sodipodi:role="line"
+           id="tspan418">北岡見郡</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-1311.3069"
+           y="2751.7769"
+           sodipodi:role="line"
+           id="tspan419">大友村</tspan></text>
+    </g>
+    <g
+       id="g425"
+       inkscape:label="朝河県泉水原市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -3255.7807,3847.803 -50.2494,-565.903 496,-254 508,-14 202.7667,206.523 -512.343,59.264 -23.9237,216.4 3.8125,95.75 3.1875,80.688 -435.6247,102.093 z"
+         id="path423"
+         transform="translate(1.777239e-5,2.2552514e-5)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-2955.4014"
+         y="3355.2456"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-1-7-4-6-2-5-29-40"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2955.4014"
+           y="3355.2456"
+           sodipodi:role="line"
+           id="tspan322-36">朝河県</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-2955.4014"
+           y="3368.5789"
+           sodipodi:role="line"
+           id="tspan425">泉水原市</tspan></text>
     </g>
   </g>
   <g
@@ -8284,17 +9180,17 @@
            style="font-size:22.1061px;text-align:start;text-anchor:start;stroke-width:0.752032"
            x="1229.2985"
            y="108.2252"
-           id="tspan12">東</tspan><tspan
+           id="tspan14">東</tspan><tspan
            sodipodi:role="line"
            style="font-size:22.1061px;text-align:start;text-anchor:start;stroke-width:0.752032"
            x="1229.2985"
            y="130.3313"
-           id="tspan13">野</tspan><tspan
+           id="tspan15">野</tspan><tspan
            sodipodi:role="line"
            style="font-size:22.1061px;text-align:start;text-anchor:start;stroke-width:0.752032"
            x="1229.2985"
            y="152.43739"
-           id="tspan14">千</tspan><tspan
+           id="tspan16">千</tspan><tspan
            sodipodi:role="line"
            style="font-size:22.1061px;text-align:start;text-anchor:start;stroke-width:0.752032"
            x="1229.2985"
@@ -11141,7 +12037,7 @@
              style="font-size:22.1061px;stroke-width:0.752032"
              x="1659.3566"
              y="1832.6519"
-             id="tspan15">名</tspan></text>
+             id="tspan18">名</tspan></text>
       </g>
       <g
          id="g17-3"
@@ -11211,7 +12107,7 @@
                style="font-size:22.1061px;stroke-width:0.752032"
                x="1571.6456"
                y="2769.9495"
-               id="tspan16">野</tspan></text>
+               id="tspan24">野</tspan></text>
         </g>
       </g>
       <g
@@ -11352,7 +12248,7 @@
                    style="font-size:22.1061px;stroke-width:0.752032"
                    x="2137.1648"
                    y="3721.1636"
-                   id="tspan18">原</tspan></text>
+                   id="tspan27">原</tspan></text>
             </g>
           </g>
         </g>
@@ -11395,7 +12291,7 @@
                      style="font-size:22.1061px;stroke-width:0.752032"
                      x="4867.356"
                      y="2122.4871"
-                     id="tspan24">川</tspan></text>
+                     id="tspan28">川</tspan></text>
               </g>
             </g>
           </g>
@@ -22428,12 +23324,12 @@
          style="font-size:16px;stroke-width:0.544309"
          x="-249.74922"
          y="8538.8643"
-         id="tspan27">岡</tspan><tspan
+         id="tspan29">岡</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-249.74922"
          y="8554.8643"
-         id="tspan28">津</tspan><tspan
+         id="tspan30">津</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-249.74922"
@@ -22783,17 +23679,17 @@
          style="font-size:16px;stroke-width:0.544309"
          x="-124.89199"
          y="8706.6035"
-         id="tspan369">石</tspan><tspan
+         id="tspan371">石</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-124.89199"
          y="8722.6035"
-         id="tspan370">追</tspan><tspan
+         id="tspan372">追</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-124.89199"
          y="8738.6035"
-         id="tspan371">分</tspan><tspan
+         id="tspan373">分</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-124.89199"
@@ -26330,7 +27226,7 @@
          x="-456.80554"
          y="8366.2441">粂崎三<tspan
    style="stroke:#ffffff;stroke-width:0.377953;stroke-dasharray:none"
-   id="tspan29"><tspan
+   id="tspan32"><tspan
    style="stroke:none"
    id="tspan247">丁</tspan>目</tspan></tspan></text>
     <text
@@ -26343,12 +27239,12 @@
          style="font-size:16px;stroke-width:0.544309"
          x="-430.84027"
          y="8230.1191"
-         id="tspan30">岡津北水奈</tspan><tspan
+         id="tspan33">岡津北水奈</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-430.84027"
          y="8246.1191"
-         id="tspan32">インター前</tspan></text>
+         id="tspan53">インター前</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -26361,7 +27257,7 @@
          y="8409.6143"
          sodipodi:role="line">粂崎<tspan
    style="stroke:#ffffff;stroke-width:0.377953;stroke-dasharray:none"
-   id="tspan33">郵便</tspan>局</tspan></text>
+   id="tspan83">郵便</tspan>局</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -26390,22 +27286,22 @@
          style="font-size:16px;stroke-width:0.544309"
          x="-491.06961"
          y="8536.3301"
-         id="tspan53">津</tspan><tspan
+         id="tspan85">津</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-491.06961"
          y="8552.3301"
-         id="tspan83">駅</tspan><tspan
+         id="tspan86">駅</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-491.06961"
          y="8568.3301"
-         id="tspan85">北</tspan><tspan
+         id="tspan87">北</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-491.06961"
          y="8584.3301"
-         id="tspan86">口</tspan></text>
+         id="tspan88">口</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -26421,12 +27317,12 @@
          style="font-size:16px;stroke-width:0.544309"
          x="-374.25583"
          y="8537.0879"
-         id="tspan87">見</tspan><tspan
+         id="tspan89">見</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-374.25583"
          y="8553.0879"
-         id="tspan88">町</tspan></text>
+         id="tspan93">町</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -26442,17 +27338,17 @@
          style="font-size:16px;stroke-width:0.544309"
          x="-310.31543"
          y="8538.1035"
-         id="tspan89">子</tspan><tspan
+         id="tspan97">子</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-310.31543"
          y="8554.1035"
-         id="tspan93">並</tspan><tspan
+         id="tspan98">並</tspan><tspan
          sodipodi:role="line"
          style="font-size:16px;stroke-width:0.544309"
          x="-310.31543"
          y="8570.1035"
-         id="tspan97">木</tspan></text>
+         id="tspan99">木</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -27674,7 +28570,7 @@
            id="text97"
            transform="translate(3.2029893e-5,6.661547e-5)"><tspan
              sodipodi:role="line"
-             id="tspan99"
+             id="tspan342"
              style="fill:#000000;stroke:none;stroke-width:1.05026;stroke-dasharray:none"
              x="2158.7908"
              y="20912.289">1km</tspan></text>
@@ -27707,7 +28603,7 @@
          id="text93"
          transform="translate(4.452332e-5,5.8661233e-5)"><tspan
            sodipodi:role="line"
-           id="tspan98"
+           id="tspan343"
            style="fill:#000000;stroke:none;stroke-width:2.0165"
            x="5235.2656"
            y="6469.5449">九津国際空港</tspan></text>
