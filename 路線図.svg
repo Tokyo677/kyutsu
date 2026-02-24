@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="9472.4024"
-     inkscape:cy="14665.571"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1072"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="1"
+     inkscape:cx="9068"
+     inkscape:cy="12958"
+     inkscape:window-width="1150"
+     inkscape:window-height="1000"
+     inkscape:window-x="2033"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g70"
      showguides="true"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
@@ -471,16 +471,16 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          x="1756.9769"
-         y="1743.2485"
+         y="1818.9089"
          id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-55-88-9-5"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1756.9769"
-           y="1743.2485"
+           y="1818.9089"
            id="tspan90-9-3-1-8-7-5-1"
            sodipodi:role="line">高島県</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
            x="1756.9769"
-           y="1756.5818"
+           y="1832.2422"
            sodipodi:role="line"
            id="tspan274">小野宮市</tspan></text>
       <path
@@ -2330,6 +2330,11 @@
        inkscape:label="西真岡線"
        sodipodi:nodetypes="ccccccccccc" />
     <path
+       style="display:inline;fill:none;stroke:#008000;stroke-width:11.3386;stroke-miterlimit:3"
+       d="m 118.77456,1419.0663 19.799,61.5183 219.9102,173.9483 202.2326,245.366 462.19644,45.7185 236.1737,70.7107 131.8738,13.1122 131.5,0 78,60 177.6426,120.635 192.333,4.2427 62.2254,-16.9706"
+       id="path33"
+       inkscape:label="高西線" />
+    <path
        style="display:inline;fill:none;fill-opacity:1;stroke:#ff5555;stroke-width:11.3386;stroke-miterlimit:3"
        d="m -3002.81,5209.5301 v -196 l -157.75,-134"
        id="path28" />
@@ -3345,7 +3350,7 @@
          y="8752.5693"
          id="text400"><tspan
            sodipodi:role="line"
-           id="tspan400"></tspan></text>
+           id="tspan400" /></text>
       <ellipse
          style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.02761;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          id="path11-2-3-1-6-6-8-1-1-2-8-5-2-9-3-1-0-5-1-4-8-1-87-23-38-2-6-7-3"
@@ -3362,7 +3367,7 @@
            sodipodi:role="line"
            id="tspan449"
            x="271.07962"
-           y="8471.1406"></tspan><tspan
+           y="8471.1406" /><tspan
            sodipodi:role="line"
            id="tspan450"
            x="271.07962"
@@ -4077,39 +4082,6 @@
         </g>
         <g
            id="g116-4-54-46"
-           transform="translate(322.04555,-1340.3681)" />
-      </g>
-      <g
-         id="g69-37-6-22"
-         transform="translate(-1112.3243,3928.3478)">
-        <g
-           id="g116-0-1">
-          <g
-             id="g37-4"
-             transform="translate(-758.33379,476.58412)">
-            <rect
-               style="fill:#ffffff;stroke:#28220b;stroke-width:0.942208;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-               id="rect11-4-6-9-8-1-3"
-               width="27.606388"
-               height="95.368652"
-               x="609.53632"
-               y="-2833.4167"
-               transform="rotate(90)" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-               x="2785.7703"
-               y="631.71564"
-               id="text14-31-6-26"><tspan
-                 sodipodi:role="line"
-                 id="tspan14-12-57-05"
-                 style="font-size:22.1061px;stroke-width:0.752032"
-                 x="2785.7703"
-                 y="631.71564">上加新川</tspan></text>
-          </g>
-        </g>
-        <g
-           id="g116-4-54-4"
            transform="translate(322.04555,-1340.3681)" />
       </g>
       <g
@@ -4979,7 +4951,7 @@
                  id="tspan14-12-2-7-2-2-6"
                  style="font-size:22.1061px;stroke-width:0.752032"
                  x="-1252.8654"
-                 y="8145.27">北東野市</tspan></text>
+                 y="8145.27">十月田</tspan></text>
           </g>
         </g>
         <g
@@ -6303,7 +6275,7 @@
                          id="tspan14-3-7-5-3-8-6-5-3-5-1"
                          style="font-size:22.1061px;stroke-width:0.752032"
                          x="-3106.8635"
-                         y="-6629.1123">南下加</tspan></text>
+                         y="-6629.1123" /></text>
                   </g>
                 </g>
               </g>
@@ -12086,25 +12058,25 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="833.19666"
-         y="2342.7454"
+         x="832.85126"
+         y="2322.3665"
          id="text14-5-9-9-7-9-2-6-1-9-17-6-1-3-3-3"><tspan
            sodipodi:role="line"
            id="tspan14-2-4-8-9-3-8-1-4-5-9-1-6-5-0-4"
            style="font-size:22.1061px;stroke-width:0.752032"
-           x="833.19666"
-           y="2342.7454">十河口</tspan></text>
+           x="832.85126"
+           y="2322.3665">十河口</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="1173.9274"
-         y="2443.3767"
+         x="1175.8812"
+         y="2417.2432"
          id="text14-5-9-9-7-9-2-6-1-9-17-6-1-3-3-3-9"><tspan
            sodipodi:role="line"
            id="tspan14-2-4-8-9-3-8-1-4-5-9-1-6-5-0-4-5"
            style="font-size:22.1061px;stroke-width:0.752032"
-           x="1173.9274"
-           y="2443.3767">県立大前</tspan></text>
+           x="1175.8812"
+           y="2417.2432">県立大前</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -12317,13 +12289,13 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          x="1335.4884"
-         y="2474.9023"
+         y="2479.6455"
          id="text14-5-9-9-7-9-2-6-1-9-17-6-1-4-7-7-2"><tspan
            sodipodi:role="line"
            id="tspan14-2-4-8-9-3-8-1-4-5-9-1-6-9-8-9-3"
            style="font-size:22.1061px;stroke-width:0.752032"
            x="1335.4884"
-           y="2474.9023">遠藤台</tspan></text>
+           y="2479.6455">遠藤台</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -14666,6 +14638,12 @@
          id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1"
          cx="-471.3537"
          cy="1507.8162"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-5"
+         cx="-303.07043"
+         cy="1793.8499"
          r="7.1432238" />
       <circle
          style="fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -17491,25 +17469,25 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="2393.9866"
-         y="-7354.7241"
+         x="2359.2732"
+         y="-7820.2993"
          id="text14-5-1-0-6-5-8-6-1-1-4-9-3-7-2-7-6-9-81-3-0"><tspan
            sodipodi:role="line"
            id="tspan14-2-0-6-0-7-7-6-0-0-62-0-2-5-0-3-0-9-8-8-9"
            style="font-size:22.1061px;stroke-width:0.752032"
-           x="2393.9866"
-           y="-7354.7241">釜浜</tspan></text>
+           x="2359.2732"
+           y="-7820.2993">釜浜</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="2371.7263"
-         y="-7823.3496"
+         x="2403.5042"
+         y="-7361.1196"
          id="text14-5-1-0-6-5-8-6-1-1-4-9-3-7-2-7-6-9-81-3-0-5"><tspan
            sodipodi:role="line"
            id="tspan14-2-0-6-0-7-7-6-0-0-62-0-2-5-0-3-0-9-8-8-9-1"
            style="font-size:22.1061px;stroke-width:0.752032"
-           x="2371.7263"
-           y="-7823.3496">東音江</tspan></text>
+           x="2403.5042"
+           y="-7361.1196">東音江</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -19086,25 +19064,25 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="1996.424"
+         x="1986.8622"
          y="-10044.851"
          id="text14-5-1-2-1-2-7-4-3-3-6-7-8-5-9-9-1-2-7-5-5"><tspan
            sodipodi:role="line"
            id="tspan14-2-0-1-4-0-3-5-6-4-3-5-7-5-4-55-2-7-2-0-96"
            style="font-size:22.1061px;stroke-width:0.752032"
-           x="1996.424"
-           y="-10044.851">中丸浦</tspan></text>
+           x="1986.8622"
+           y="-10044.851">丸浦</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="2357.4578"
+         x="2371.9097"
          y="-9910.0645"
          id="text14-5-1-2-1-2-7-4-3-3-6-7-8-5-9-9-1-2-7-5-5-2"><tspan
            sodipodi:role="line"
            id="tspan14-2-0-1-4-0-3-5-6-4-3-5-7-5-4-55-2-7-2-0-96-5"
            style="font-size:22.1061px;stroke-width:0.752032"
-           x="2357.4578"
-           y="-9910.0645">丸浦</tspan></text>
+           x="2371.9097"
+           y="-9910.0645">中丸浦</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -19522,7 +19500,7 @@
       <ellipse
          style="fill:#ffffff;stroke:#28220b;stroke-width:1.41978;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          id="path11-2-3-1-6-2-0-1-7-89-2-2-7-7-7"
-         cx="2326.5278"
+         cx="2325.5508"
          cy="-7829.8643"
          rx="6.9298429"
          ry="6.9298425" />
@@ -19632,21 +19610,39 @@
       <ellipse
          style="fill:#ffffff;stroke:#28220b;stroke-width:1.41978;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          id="path11-2-3-1-6-2-0-1-7-89-2-2-2-3-9-8-2-4-7"
-         cx="2325.8086"
-         cy="-9243.0791"
+         cx="2326.5857"
+         cy="-9321.4043"
+         rx="6.9298429"
+         ry="6.9298425" />
+      <ellipse
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.41978;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-2-3-1-6-2-0-1-7-89-2-2-2-3-9-8-2-4-7-8"
+         cx="2327.9517"
+         cy="-8858.6504"
          rx="6.9298429"
          ry="6.9298425" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          x="2368.1433"
-         y="-9233.1221"
+         y="-9311.4473"
          id="text14-5-1-2-1-2-7-4-3-3-6-7-8-5-9-9-1-2-7-5-5-29"><tspan
            sodipodi:role="line"
            id="tspan14-2-0-1-4-0-3-5-6-4-3-5-7-5-4-55-2-7-2-0-96-7"
            style="font-size:22.1061px;stroke-width:0.752032"
            x="2368.1433"
-           y="-9233.1221">直ヶ浜</tspan></text>
+           y="-9311.4473">直ヶ浜</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="2382.856"
+         y="-8850.332"
+         id="text14-5-1-2-1-2-7-4-3-3-6-7-8-5-9-9-1-2-7-5-5-29-1"><tspan
+           sodipodi:role="line"
+           id="tspan14-2-0-1-4-0-3-5-6-4-3-5-7-5-4-55-2-7-2-0-96-7-7"
+           style="font-size:22.1061px;stroke-width:0.752032"
+           x="2382.856"
+           y="-8850.332">東野蒲田</tspan></text>
       <circle
          style="fill:#ffffff;stroke:#28220b;stroke-width:1.43702;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          id="path11-8-5-2-9-2-5-8-9-5-5"
@@ -23026,6 +23022,78 @@
            x="1741.2985"
            y="9078.5254"
            id="tspan549">口</tspan></text>
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-52"
+         cx="-160.52266"
+         cy="1906.6396"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-2"
+         cx="-59.169827"
+         cy="2016.5485"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6"
+         cx="24.70249"
+         cy="2118.3223"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6-1"
+         cx="301.08411"
+         cy="2285.2119"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6-9"
+         cx="464.16245"
+         cy="2301.3477"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6-2"
+         cx="637.16736"
+         cy="2318.4648"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6-13"
+         cx="953.51379"
+         cy="2382.8621"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6-7"
+         cx="1313.826"
+         cy="2449.2874"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6-98"
+         cx="1472.0519"
+         cy="2449.3938"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6-8"
+         cx="1713.6622"
+         cy="2618.5906"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6-86"
+         cx="1962.9879"
+         cy="2701.8704"
+         r="7.1432238" />
+      <circle
+         style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.46349;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8-3-5-1-8-2-1-6-0"
+         cx="1838.7084"
+         cy="2699.0896"
+         r="7.1432238" />
     </g>
     <ellipse
        style="fill:#ffffff;stroke:#28220b;stroke-width:1.05617;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -23839,9 +23907,7 @@
          id="tspan14-2-4-0-5-9-9-8-1-1-0-8-9-7-1-2-2-0-3-5-68-95"
          style="font-size:16px;stroke-width:0.377953;stroke-dasharray:none"
          x="1631.6255"
-         y="6892.1685">九津<tspan
-   style="stroke:#ffffff;stroke-width:0.377953;stroke-dasharray:none"
-   id="tspan458">桜台駅</tspan>入口</tspan></text>
+         y="6892.1685">九津桜台駅入口</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -24995,14 +25061,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-       x="1928.6823"
-       y="2220.5488"
+       x="1930.4501"
+       y="2239.2871"
        id="text14-5-9-9-0-9-4-8-8-5-0-2"><tspan
          sodipodi:role="line"
          id="tspan14-2-4-0-5-9-9-8-1-8-5-5"
          style="font-size:16px;stroke-width:0.544309"
-         x="1928.6823"
-         y="2220.5488">西小野宮</tspan></text>
+         x="1930.4501"
+         y="2239.2871">西小野宮</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -26038,17 +26104,6 @@
          style="font-size:16px;stroke-width:0.544309"
          x="1211.259"
          y="4704.4092">有留</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-       x="1026.2771"
-       y="4983.3589"
-       id="text14-5-9-9-0-9-4-8-8-5-0-2-96-9-6-9-1-7-7-6-4-0-8-1-9-1-3-5-8"><tspan
-         sodipodi:role="line"
-         id="tspan14-2-4-0-5-9-9-8-1-8-5-5-1-0-3-1-5-3-7-6-7-6-8-0-6-7-2-0-8"
-         style="font-size:16px;stroke-width:0.544309"
-         x="1026.2771"
-         y="4983.3589">下加</tspan></text>
     <ellipse
        style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.02761;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
        id="path11-2-3-1-6-6-8-1-1-2-8-5-2-9-3-1-0-5-1-4-8-2-9"
@@ -26056,28 +26111,6 @@
        cy="4809.5796"
        rx="5.0157094"
        ry="5.0157089" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-       x="1085.3987"
-       y="4824.6499"
-       id="text14-5-9-9-0-9-4-8-8-5-0-2-96-9-6-9-1-7-7-6-4-0-8-1-9-1-3-5-8-4"><tspan
-         sodipodi:role="line"
-         id="tspan14-2-4-0-5-9-9-8-1-8-5-5-1-0-3-1-5-3-7-6-7-6-8-0-6-7-2-0-8-4"
-         style="font-size:16px;stroke-width:0.544309"
-         x="1085.3987"
-         y="4824.6499">西有留</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-       x="1025.8533"
-       y="5188.2588"
-       id="text14-5-9-9-0-9-4-8-8-5-0-2-96-9-6-9-1-7-7-6-4-0-8-1-9-1-3-5-89"><tspan
-         sodipodi:role="line"
-         id="tspan14-2-4-0-5-9-9-8-1-8-5-5-1-0-3-1-5-3-7-6-7-6-8-0-6-7-2-0-30"
-         style="font-size:16px;stroke-width:0.544309"
-         x="1025.8533"
-         y="5188.2588">安台</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -29433,17 +29466,6 @@
        ry="5.0157089" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-       x="1339.7279"
-       y="4582.417"
-       id="text14-5-9-9-0-9-4-8-8-5-0-2-96-9-6-9-1-7-7-6-4-0-8-1-9-1-3-5-8-49"><tspan
-         sodipodi:role="line"
-         id="tspan14-2-4-0-5-9-9-8-1-8-5-5-1-0-3-1-5-3-7-6-7-6-8-0-6-7-2-0-8-6"
-         style="font-size:16px;stroke-width:0.544309"
-         x="1339.7279"
-         y="4582.417">加川</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
        x="1654.0917"
        y="6873.0288"
@@ -29466,7 +29488,7 @@
          sodipodi:role="line"
          id="tspan459"
          x="1592.96"
-         y="6866.9399"></tspan><tspan
+         y="6866.9399" /><tspan
          sodipodi:role="line"
          id="tspan460"
          x="1592.96"
