@@ -1,0 +1,16 @@
+{
+    "name": "九津地方地図&路線図",
+    "short_name": "九津地方地図&路線図",
+    "description": "九津地方の地形と路線を収録した過去最大級の地図",
+    "icons": [
+        {
+            "src":"kyuutusa-ba-.png",
+            "sizes":"192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url":"https://tokyo677.github.io/kyutsu/index.php",
+    "display":"fullscreen",
+    "theme_color": "#dff0d8",
+    "background_color": "#dff0d8"
+}
