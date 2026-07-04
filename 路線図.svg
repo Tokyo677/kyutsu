@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="8620"
-     inkscape:cy="12817.5"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="7885.6548"
+     inkscape:cy="5252.3892"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1072"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showguides="false"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
@@ -1583,7 +1583,7 @@
            id="tspan320">北九津市</tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1.02803;stroke-miterlimit:3"
-         d="m -323.7244,3999.6151 36.4602,181.1962 44.1942,172.3572 0,16.4403 113.7825,-71.4878 59.375003,-62.5985 -13.313776,-284.2601 83.99293574,-49.3089 -93.64651074,-447.6683 -80.336922,-345.3341 -319.90295,-0.3138 -43.96473,84.4206 -3.39839,159.5888 181.50784,116.1436 31.75922,239.0165 z"
+         d="m -323.7244,3999.6151 36.4602,181.1962 44.1942,172.3572 v 16.4403 l 113.7825,-71.4878 59.375003,-62.5985 -13.313776,-284.2601 83.99293574,-49.3089 -97.77151074,-446.4183 -76.211922,-346.5841 -319.90295,-0.3138 -43.96473,84.4206 -3.39839,159.5888 181.50784,116.1436 31.75922,239.0165 z"
          id="path247"
          sodipodi:nodetypes="cccccccccccccccc"
          transform="translate(2.1582864e-5,3.5119133e-5)" />
@@ -1611,7 +1611,8 @@
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;stroke-dasharray:none;paint-order:stroke markers fill"
          d="m 395.9398,4227.962 2.961,-37.742 -63.0209,-314.442 -19.8786,-167.972 -134.3125,-697.187 -282.1563,-127.969 -72.5485,226.492 173.9925,793.33 51.7435,145.678 87,-26.5 102.9375,196.438 56.4688,0.218 z"
          id="path444"
-         transform="translate(1.777239e-5,2.2552514e-5)" />
+         transform="translate(1.777239e-5,2.2552514e-5)"
+         sodipodi:nodetypes="ccccccccccccc" />
     </g>
     <g
        id="g255"
@@ -3293,6 +3294,72 @@
          id="path11"
          sodipodi:nodetypes="ccccccccc" />
     </g>
+    <g
+       id="g101"
+       inkscape:label="東野県南出町">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="-586.82294"
+         y="-2181.7361"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-1-8-1-3-8"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-586.82294"
+           y="-2181.7361"
+           id="tspan100-2-5-2-5-2-2" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-586.82294"
+           y="-2168.4028"
+           id="tspan110-4-2-4-2-2-4">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-586.82294"
+           y="-2155.0696"
+           id="tspan11-5-7-5-7-1-5">菱科郡</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="-586.82294"
+           y="-2141.7361"
+           id="tspan333">南出町</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157483;stroke-miterlimit:3;paint-order:stroke markers fill;stroke-dasharray:none"
+         d="M -531.9169,-2396.1264 -648.03,-2440.1 l -64,247 -26,295 141.0593,504.1207 148.9675,-46.1939 -3.9799,-375.6455 -66.0469,-244.2188 z"
+         id="path93" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+       x="-792.67462"
+       y="-2269.9202"
+       id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-1-8-1-3-8-1"
+       transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+         x="-792.67462"
+         y="-2269.9202"
+         id="tspan100-2-5-2-5-2-2-5" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+         x="-792.67462"
+         y="-2256.5869"
+         id="tspan110-4-2-4-2-2-4-2">東野県</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+         x="-792.67462"
+         y="-2243.2537"
+         id="tspan11-5-7-5-7-1-5-7">菱科郡</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+         x="-792.67462"
+         y="-2229.9202"
+         id="tspan333-6">額川町</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none;paint-order:stroke markers fill"
+       d="m -648.0592,-2439.967 5.0381,-80.0798 -214.9604,-70.7107 -82.0244,257.3869 -104.6518,267.2863 56.5464,380.6445 45.8957,397.7917 345.1123,-106.6405 -140.891,-503.4159 26.0082,-295.438 z"
+       id="path333" />
   </g>
   <g
      inkscape:label="路線"
@@ -4996,6 +5063,31 @@
            style="font-size:22.1061px;stroke-width:0.752032"
            x="1657.9744"
            y="1601.0106">西本草</tspan></text>
+    </g>
+    <g
+       id="g64-8"
+       transform="matrix(0.723784,0,0,0.723784,344.69207,89.869897)"
+       inkscape:label="十筋橋"
+       style="display:inline">
+      <rect
+         style="fill:#ffffff;stroke:#28220b;stroke-width:0.822071;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="rect11-4-6-9-3-8-78-0-4-2"
+         width="27.726524"
+         height="72.2845"
+         x="1579.4492"
+         y="-1694.8662"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="1658.6538"
+         y="1601.8074"
+         id="text14-0-3-3-4-6-4"><tspan
+           sodipodi:role="line"
+           id="tspan14-3-7-6-9-3-5"
+           style="font-size:22.1061px;stroke-width:0.752032"
+           x="1658.6538"
+           y="1601.8074">十筋橋</tspan></text>
     </g>
     <g
        id="g33-2"
@@ -9076,35 +9168,6 @@
            x="-304.07797"
            y="1023.3032"
            id="tspan4">朝日ヶ丘</tspan></text>
-    </g>
-    <g
-       id="g63"
-       transform="matrix(0.723784,0,0,0.723784,435.78074,-745.65335)"
-       inkscape:label="県立大学前">
-      <rect
-         style="fill:#ffffff;stroke:#28220b;stroke-width:1.10879;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         id="rect11-4-6-9-0-9-5-9"
-         width="50.641251"
-         height="71.997757"
-         x="2723.1531"
-         y="-1564.8131"
-         transform="rotate(90)" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="1529.6724"
-         y="2745.6162"
-         id="text14-04-3-0-5"><tspan
-           sodipodi:role="line"
-           style="font-size:22.1061px;stroke-width:0.752032"
-           x="1529.6724"
-           y="2745.6162"
-           id="tspan31-9-5">県立</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:22.1061px;stroke-width:0.752032"
-           x="1529.6724"
-           y="2767.7224"
-           id="tspan63">大学前</tspan></text>
     </g>
     <g
        id="g31-8-9-4"
