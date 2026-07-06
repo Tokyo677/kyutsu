@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="10038.088"
-     inkscape:cy="6933.8891"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="7662.9162"
+     inkscape:cy="5086.0423"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1072"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1378"
+     inkscape:current-layer="g262"
      showguides="false"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
@@ -3401,6 +3401,77 @@
          id="path1375"
          transform="translate(1.777239e-5,2.2552514e-5)"
          sodipodi:nodetypes="cccccccc" />
+    </g>
+    <g
+       id="g262"
+       style="display:inline"
+       transform="translate(0.01001777,-453.53999)"
+       inkscape:label="東野県筒井市">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="57.719143"
+         y="-2862.064"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-6-2-4-0-1-8"
+         transform="translate(-0.00998223,453.54002)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="57.719143"
+           y="-2862.064"
+           id="tspan100-15-6-1-9-0-2" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="57.719143"
+           y="-2848.7307"
+           id="tspan110-42-0-2-4-6-4">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="57.719143"
+           y="-2835.3975"
+           id="tspan1361-8-5-5">筒井市</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.740787;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m -100.04,-2664.81 -25.8308,515.4391 473.9825,-23.2461 209.0046,24.682 -184.2813,-528.875 -124.7789,55.3128 z"
+         id="path155"
+         transform="translate(1.777267e-5)" />
+    </g>
+    <g
+       id="g1378"
+       inkscape:label="東野県桑香市"
+       style="display:inline"
+       transform="translate(0.01001777,-453.53999)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="2336.1392"
+         y="-1187.1904"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-1-4-4"
+         transform="translate(-0.00998223,453.54002)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2336.1392"
+           y="-1187.1904"
+           id="tspan100-1-2-9" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2336.1392"
+           y="-1173.8572"
+           id="tspan110-5-3-5" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2336.1392"
+           y="-1160.5238"
+           id="tspan25-6">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2336.1392"
+           y="-1147.1906"
+           id="tspan26-4">桑香市</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.740787;stroke-miterlimit:3;stroke-dasharray:none;paint-order:stroke markers fill"
+         d="m 2657.179,-412.4975 -992.2136,-9.279 -40.0054,-283.7835 174.3557,-107.9536 722.6633,-94.7524 135.19,10.4741 z"
+         id="path1377"
+         transform="translate(1.777267e-5)" />
     </g>
   </g>
   <g
@@ -8336,42 +8407,6 @@
          d="m 1691.44,6737.166 19.875,-34.75"
          id="path1263"
          sodipodi:nodetypes="cc" />
-    </g>
-    <g
-       id="g1378"
-       inkscape:label="東野県桑香市">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="2336.1392"
-         y="-1187.1904"
-         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-1-4-4"
-         transform="translate(-0.00998223,453.54002)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="2336.1392"
-           y="-1187.1904"
-           id="tspan100-1-2-9" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="2336.1392"
-           y="-1173.8572"
-           id="tspan110-5-3-5" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="2336.1392"
-           y="-1160.5238"
-           id="tspan25-6">東野県</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
-           x="2336.1392"
-           y="-1147.1906"
-           id="tspan26-4">桑香市</tspan></text>
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.740787;stroke-miterlimit:3;stroke-dasharray:none;paint-order:stroke markers fill"
-         d="m 2657.179,-412.4975 -992.2136,-9.279 -40.0054,-283.7835 174.3557,-107.9536 722.6633,-94.7524 135.19,10.4741 z"
-         id="path1377"
-         transform="translate(1.777267e-5)" />
     </g>
     <g
        id="g96"
