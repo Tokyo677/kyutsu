@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="7662.9162"
-     inkscape:cy="5086.0423"
+     inkscape:zoom="0.5"
+     inkscape:cx="9770.0001"
+     inkscape:cy="4049"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1072"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g262"
+     inkscape:current-layer="layer2"
      showguides="false"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
@@ -3472,6 +3472,67 @@
          d="m 2657.179,-412.4975 -992.2136,-9.279 -40.0054,-283.7835 174.3557,-107.9536 722.6633,-94.7524 135.19,10.4741 z"
          id="path1377"
          transform="translate(1.777267e-5)" />
+    </g>
+    <g
+       id="g362"
+       inkscape:label="東野県松岩市">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.740787;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 907.9701,-5722.1 50,508 140,164 376,-22 352,-16 250,-58 581.2529,-198 0,-418 -983.2529,84 z"
+         id="path156"
+         sodipodi:nodetypes="cccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="1645.1207"
+         y="-5444.7231"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-1-8-0-9-8"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1645.1207"
+           y="-5444.7231"
+           id="tspan100-2-5-2-1-8-2" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1645.1207"
+           y="-5431.3896"
+           id="tspan110-4-2-4-6-4-4">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1645.1207"
+           y="-5418.0566"
+           id="tspan11-5-7-5-4-1-5">松岩市</tspan></text>
+    </g>
+    <g
+       id="g364"
+       inkscape:label="東野県島尾市">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="2155.3572"
+         y="-3857.3218"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-1-8-0-9-1"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2155.3572"
+           y="-3857.3218"
+           id="tspan100-2-5-2-1-8-5" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2155.3572"
+           y="-3843.9885"
+           id="tspan110-4-2-4-6-4-2">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="2155.3572"
+           y="-3830.6553"
+           id="tspan11-5-7-5-4-1-7">島尾市</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.740787;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 2029.5951,-3365.85 627.5399,-92.5717 V -4249.63 l -474.5573,31.1127 -268.7326,243.2923 45.5,134.5 z"
+         id="path364" />
     </g>
   </g>
   <g
