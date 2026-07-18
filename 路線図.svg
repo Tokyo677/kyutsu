@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.125"
-     inkscape:cx="5760"
-     inkscape:cy="12284"
+     inkscape:zoom="1"
+     inkscape:cx="8218"
+     inkscape:cy="7885.5"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1072"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g1408"
      showguides="false"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
@@ -735,7 +735,7 @@
            id="tspan282">美城市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
-         d="m 402.2362,608.04719 29,124 89,143 27,110 59,55.00001 -19,46 -3,59 124,48 35.625,7.6875 0.375,-8.5625 34.8862,-41.0729 21.1138,-10.0521 h 51.011 l 44.9676,-6.9163 56.9745,-20.0504 66.9219,-19.0312 -62.0938,-27.9375 -16.58089,-87.92568 -21.4342,-58.2922 9.9437,-80.4776 -45.3432,-45.4758 9.2808,-36.0182 4.7729,-56.9221 17.55347,-93.91388 55.38565,-31.23809 59.99507,-41.16902 -143.51217,-58.19991 0.96089,-151.22665 -25.84758,23.08449 -44.65733,24.46697 -195.29831,10.24306 -186,12 z"
+         d="m 402.2362,608.04719 29,124 89,143 27,110 59,55.00001 -19,46 -3,59 124,48 35.625,7.6875 0.375,-8.5625 34.8862,-41.0729 21.1138,-10.0521 h 51.011 l 44.9676,-6.9163 56.9745,-20.0504 66.9219,-19.0312 -62.0938,-27.9375 -16.58089,-87.92568 -21.4342,-58.2922 9.9437,-80.4776 -45.3432,-45.4758 9.2808,-36.0182 4.7729,-56.9221 17.55347,-93.91388 55.38565,-31.23809 59.99507,-41.16902 -143.51217,-58.19991 0.96089,-151.22665 -25.84758,23.08449 -44.65733,24.46697 -195.07956,11.30556 -186.21875,10.9375 z"
          id="path119"
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
     </g>
@@ -2169,7 +2169,7 @@
        inkscape:label="東野県東野市">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:none;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          x="586.67706"
          y="-101.97842"
          id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8"
@@ -2191,9 +2191,9 @@
            id="tspan11">東野市</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;stroke-dasharray:none"
-         d="m 270.2867,417.9602 0.047,-5.375 -129.8762,-251.1665 12.728,-299.8132 21.2132,-120.2082 107.4802,-271.529 284.2569,-33.234 111.0158,-39.598 78.4888,-26.1629 150.3339,-16.2882 254.1312,-13.4103 207.8688,35.4103 134.3709,81.96945 46.669,148.49242 -33.9411,265.87207 -12.7279,135.76456 -101.7141,22.56306 -36.7926,151.99966 -138.1227,3.61748 -122.2537,1.95408 -43.5655,-0.74434 -87.2035,102.19906 -83.4532,35.3906 -26.20764,23.62487 -44.62046,24.42203 -381.0937,22.3125 -0.2188,1.1563 z"
+         d="m 270.2867,417.9602 0.047,-5.375 -129.8762,-251.1665 12.728,-299.8132 21.2132,-120.2082 107.4802,-271.529 284.2569,-33.234 111.0158,-39.598 78.4888,-26.1629 150.3339,-16.2882 254.1312,-13.4103 207.8688,35.4103 134.3709,81.96945 35.8352,114.0674 11.6466,28.80918 -0.8128,5.61584 -33.9411,265.87207 -12.7279,135.76456 -101.7141,22.56306 -36.7926,151.99966 -138.1227,3.61748 -122.2537,1.95408 -43.5655,-0.74434 -87.2035,102.19906 -83.4532,35.3906 -26.20764,23.62487 -44.62046,24.42203 -381.0937,22.3125 -0.2188,1.1563 z"
          id="path25"
-         sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
     </g>
     <g
        id="g147"
@@ -4284,6 +4284,347 @@
          d="m 931.9709,6135.25 86.4991,-57.35 48,-24.5 45.548,77.298 169.7056,73.539 115.9655,-154.15 -135.8128,-278.562 -481.8449,-27.703 -23.0614,-224.047 -392.6732,42.541 129.6107,145.584 257.3976,122.145 100.6744,212.132 z"
          id="path1397" />
     </g>
+    <g
+       id="g1399"
+       inkscape:label="東野市安達区">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="1134.8845"
+         y="-550.23511"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1134.8845"
+           y="-550.23511"
+           id="tspan100-2-2" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1134.8845"
+           y="-536.90179"
+           id="tspan110-4-4">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1134.8845"
+           y="-523.56854"
+           id="tspan11-5-5">東野市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1134.8845"
+           y="-510.2352"
+           id="tspan1400">安達区</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 960.24289,-217.09479 81.13501,1.70279 -13.8498,-164.6997 270.6004,-12.58255 -30.8179,-247.88695 -107.229,-18.24939 -217.3715,11.40349 -36.6854,2.0493 -153.7734,16.9766 -95.4333,32.6371 37.27701,69.0191 z"
+         id="path372"
+         sodipodi:nodetypes="cccccccccccc" />
+    </g>
+    <g
+       id="g1400"
+       inkscape:label="東野市千代田区">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="1456.1444"
+         y="-210.07764"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-8-1"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1456.1444"
+           y="-210.07764"
+           id="tspan100-2-2-5" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1456.1444"
+           y="-196.74434"
+           id="tspan110-4-4-2">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1456.1444"
+           y="-183.41104"
+           id="tspan11-5-5-7">東野市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1456.1444"
+           y="-170.07774"
+           id="tspan1400-6">千代田区</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="M 1239.97,-212.6051 V -67.1 l 160.488,98.393029 101.9271,-22.6597228 9.0068,-94.8114062 1.875,-18.4531 1.3281,-14.4844 1.9844,-18.0312 1.1406,-11.125 12.397,-95.9518 -169.9522,12.3849 z"
+         id="path1400"
+         sodipodi:nodetypes="cccccccccccc" />
+    </g>
+    <g
+       id="g1401"
+       inkscape:label="東野市比鷹区(ひだか)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="1021.655"
+         y="-59.646633"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-1-4-2"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1021.655"
+           y="-59.646633"
+           id="tspan100-1-2-2" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1021.655"
+           y="-46.313332"
+           id="tspan110-5-3-1" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1021.655"
+           y="-32.980034"
+           id="tspan25-68">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1021.655"
+           y="-19.646734"
+           id="tspan26-5">東野市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1021.655"
+           y="-6.3134346"
+           id="tspan1401">比鷹区</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 1240.0247,-212.5531 -200.3639,-2.88693 -79.1908,-1.65997 29,158.500001 -196.30928,95.767097 43.82533,94.383382 51.89826,194.28236 L 972.595,290.4 l 87.4507,-102.1394 44.4593,0.5966 28.9807,-0.5197 60.6718,-0.9687 169.7657,-4.1016 L 1400.5397,31.4265 1239.9232,-67.1 Z"
+         id="path1401"
+         sodipodi:nodetypes="cccccccccccccccc" />
+    </g>
+    <g
+       id="g1403"
+       inkscape:label="東野市西澱区">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="1273.2878"
+         y="-361.25876"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-8-1-9"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1273.2878"
+           y="-361.25876"
+           id="tspan100-2-2-5-2" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1273.2878"
+           y="-347.92545"
+           id="tspan110-4-4-2-7">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1273.2878"
+           y="-334.59216"
+           id="tspan11-5-5-7-9">東野市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1273.2878"
+           y="-321.25885"
+           id="tspan1400-6-5">西澱区</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 1027.5187,-380.2533 13.8514,164.85431 198.8187,2.89279 120.4656,-19.4314 169.5031,-12.3499 6.25,-49.875 8.8125,-69.125 2.8114,-22.27735 1.8036,-13.0566 -11.8584,-29.3663 -35.6425,-113.44977 -134.3813,-81.91445 -100.6442,-17.19718 30.5794,247.90123 z"
+         id="path1402"
+         sodipodi:nodetypes="ccccccccccccccc" />
+    </g>
+    <g
+       id="g1404"
+       inkscape:label="東野市五十嵐区">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="679.31891"
+         y="223.56131"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-8-3"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="679.31891"
+           y="223.56131"
+           id="tspan100-2-2-3" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="679.31891"
+           y="236.89461"
+           id="tspan110-4-4-4">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="679.31891"
+           y="250.22791"
+           id="tspan11-5-5-1">東野市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="679.31891"
+           y="263.56122"
+           id="tspan1400-1">五十嵐区</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 793.1128,37.0281 43.8407,94.3987 52.1491,194.7196 -25.5884,22.981 -44.835,24.594 -118.4279,6.5849 -68.28045,4.27791 -34.46955,2.15959 -160.2656,9.3594 0.7343,-192.2032 -1,-160 z"
+         id="path1404"
+         sodipodi:nodetypes="cccccccccccc" />
+    </g>
+    <g
+       id="g1407"
+       inkscape:label="東野市関区">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 8185.2815,8315.219 0.6562,-231.3125 -0.4375,-37.2188 -0.4375,-84.7812 v -98.8789 H 7897.477 l -2.3518,63.2226 -2.125,49.625 -4.25,103.875 129.75,251.125 -0.125,5.375 z"
+         id="path1406"
+         transform="translate(-7748.03,-7918.1)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="328.39285"
+         y="72.686195"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-8-3-2"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="328.39285"
+           y="72.686195"
+           id="tspan100-2-2-3-7" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="328.39285"
+           y="86.019493"
+           id="tspan110-4-4-4-7">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="328.39285"
+           y="99.352798"
+           id="tspan11-5-5-1-9">東野市</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="328.39285"
+           y="112.6861"
+           id="tspan1400-1-3">関区</tspan></text>
+    </g>
+    <g
+       id="g1402"
+       inkscape:label="東野市??区">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="322.2861"
+         y="-210.07764"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-82"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="322.2861"
+           y="-210.07764"
+           id="tspan100-4" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="322.2861"
+           y="-196.74434"
+           id="tspan110-55">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="322.2861"
+           y="-183.41104"
+           id="tspan11-1">??区</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 437.0404,-54.9842 v -283.6783 l -231.7322,1.5648 -30.8696,78.3784 -21.169,120.3849 -3.6121,83.3594 z"
+         id="path158"
+         transform="translate(1.777239e-5,2.2552514e-5)" />
+    </g>
+    <g
+       id="g1405"
+       inkscape:label="東野市上牧区">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="452.54724"
+         y="-461.93387"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-82-2"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="452.54724"
+           y="-461.93387"
+           id="tspan100-4-7" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="452.54724"
+           y="-448.60056"
+           id="tspan110-55-6">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="452.54724"
+           y="-435.26727"
+           id="tspan11-1-1">上牧区</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 436.845,-338.6625 415.9742,-3.5727 -158.6304,-184.4273 -37.3708,-69.1037 -90.6422,32.4827 -284.237,33.1523 -76.6748,193.1661 z"
+         id="path1403" />
+    </g>
+    <g
+       id="g1406"
+       inkscape:label="東野市??区2">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="565.93304"
+         y="-254.05986"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-82-21"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="565.93304"
+           y="-254.05986"
+           id="tspan100-4-6" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="565.93304"
+           y="-240.72656"
+           id="tspan110-55-8">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="565.93304"
+           y="-227.39326"
+           id="tspan11-1-5">??区</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 437.0638,43.9625 356.3584,-6.8902 -171.9153,-377.2857 -184.4431,1.5978 z"
+         id="path1405"
+         transform="translate(1.777239e-5,2.2552514e-5)" />
+    </g>
+    <g
+       id="g1408"
+       inkscape:label="東野市??区3">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="811.60236"
+         y="-228.97528"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-82-21-9"
+         transform="translate(1.777239e-5,2.2552514e-5)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="811.60236"
+           y="-228.97528"
+           id="tspan100-4-6-2" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="811.60236"
+           y="-215.64198"
+           id="tspan110-55-8-7">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="811.60236"
+           y="-202.30869"
+           id="tspan11-1-5-9">??区</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.725669;stroke-miterlimit:3;paint-order:stroke markers fill"
+         d="m 793.378,36.9397 -171.7827,-377.131 231.0471,-2.0992 107.878,125.644 29.0797,158.392 z"
+         id="path1407" />
+    </g>
   </g>
   <g
      inkscape:label="路線"
@@ -4298,11 +4639,11 @@
        inkscape:label="SJR九岸線終山支線"
        sodipodi:nodetypes="cccccccc" />
     <path
-       style="fill:none;stroke:#501616;stroke-width:11.3386;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 2099.6784,-7312.2461 -176.4084,216.0922 -388.3303,323.2739 -186.3491,312.9903 -130.2527,216.0233 -2.6088,626.8039 -281.42852,653.7203 -60.16013,250.3158 -115.25841,444.3266 -16.45344,677.8791 327.3091,1231.8097 -25.5892,399.414 37.4767,324.562 114.5513,535.9869 349.3421,509.04619 V 58.998083 l -219.125,223.749997 -255.1217,503 v 616.65052 l 0.3536,68.943 -32.3501,72.4785 -48.27037,94.631 -215.7559,517.8447 -3.08321,511.1169 285.14878,339.5959 88.5653,670.7166 0.8013,172.6558 0.8161,56.889 -13.3696,206.9459 -43.7908,272.5614 -27.2021,179.3604 -15.4744,97.4288 -56.0172,187.6826 -0.25,407.75 v 889.513 l -1.1698,185.7633 -208.29425,203.9236 -36.59962,-0.1244 -880.91273,821.6635 -379.4022,434.478"
+       style="display:inline;fill:none;stroke:#501616;stroke-width:11.3386;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 2099.6784,-7312.2461 -176.4084,216.0922 -388.3303,323.2739 -186.3491,312.9903 -130.2527,216.0233 -2.6088,626.8039 -281.42852,653.7203 -60.16013,250.3158 -115.25841,444.3266 -16.45344,677.8791 327.3091,1231.8097 -25.5892,399.414 37.4767,324.562 114.5513,535.9869 349.3421,509.04619 v 642.539666 3.800699 2.659628 l -219.125,223.749997 -255.1217,503 v 616.65052 l 0.3536,68.943 -32.3501,72.4785 -48.27037,94.631 -215.7559,517.8447 -3.08321,511.1169 285.14878,339.5959 88.5653,670.7166 0.8013,172.6558 0.8161,56.889 -13.3696,206.9459 -43.7908,272.5614 -27.2021,179.3604 -15.4744,97.4288 -56.0172,187.6826 -0.25,407.75 v 889.513 l -1.1698,185.7633 -208.29425,203.9236 -36.59962,-0.1244 -880.91273,821.6635 -379.4022,434.478"
        id="path101"
        inkscape:label="南江新幹線"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="display:inline;fill:none;fill-opacity:1;stroke:#0044aa;stroke-width:11.3386;stroke-miterlimit:3"
        d="m 1770.4304,7155.8383 -103.9052,0.5067 -97.9013,-142.3743 -51.8832,-89.374 62.3898,-56.9708 35.7823,-32.82 -10.6383,-24.9314 -8.2572,-24.3189 102.8662,-52.9499 14.0797,-1.2394 0.25,15.6777"
