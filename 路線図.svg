@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="8990.1556"
-     inkscape:cy="8730.6474"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="7455.7339"
+     inkscape:cy="4104.0478"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1072"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g309"
+     inkscape:current-layer="svg1"
      showguides="false"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
@@ -3430,10 +3430,10 @@
            id="tspan1361-8-5">月橋市</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.740787;stroke-miterlimit:3;stroke-dasharray:none;paint-order:stroke markers fill"
-         d="m -125.8738,-2603.1 -70.6977,271.5855 298.5758,57.4524 103.9226,348.1175 344.1056,-37.3742 7.09183,-638.1718 -209.02933,-24.6719 z"
+         d="m -125.8738,-2603.1 -70.6977,271.5855 298.5758,57.4524 103.9226,348.1175 535.97302,-58.1255 29.56025,5.8245 22.42058,-102.0174 -238.25364,-397.1341 1.49722,-124.0935 -209.02933,-24.6719 z"
          id="path1375"
          transform="translate(1.777239e-5,2.2552514e-5)"
-         sodipodi:nodetypes="cccccccc" />
+         sodipodi:nodetypes="ccccccccccc" />
     </g>
     <g
        id="g262"
@@ -5103,6 +5103,36 @@
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.740787;stroke-miterlimit:3;stroke-dasharray:none;paint-order:stroke markers fill"
          d="m 1152.2789,6552.885 60.8885,36.051 157.939,-83.516 48.973,7.496 -14.0817,-185.068 -124.2078,-123.611 -169.8511,-73.556 -45.4375,-77.156 -48.2969,24.422 -86.1719,57.266 127.98,149.545 1.0386,1.481 38.4033,37.083 z"
          id="path1430" />
+    </g>
+    <g
+       id="g131"
+       inkscape:label="東野県岫和市">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+         x="1189.5552"
+         y="-2326.613"
+         id="text14-5-9-9-7-9-2-6-1-7-3-6-3-2-58-6-3-5-5-6-8-8-1-8-0-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1189.5552"
+           y="-2326.613"
+           id="tspan100-2-5-2-1-2" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1189.5552"
+           y="-2313.2798"
+           id="tspan110-4-2-4-6-45">東野県</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';stroke-width:0.544309"
+           x="1189.5552"
+           y="-2299.9465"
+           id="tspan11-5-7-5-4-5">岫和市</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:3;stroke-dasharray:none;paint-order:stroke markers fill"
+         d="m 1646.4075,-2483.1937 -87.3081,-20.4572 -531.1294,-124.4491 -470.8761,26.6033 -1.3922,124.0531 238.1182,397.2172 -22.4124,102.1264 197.6313,39.0077 680.1812,-75.4452 -17.2133,-123.6716 z"
+         id="path129"
+         sodipodi:nodetypes="ccccccccccc" />
     </g>
   </g>
   <g
