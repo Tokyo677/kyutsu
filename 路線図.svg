@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.25"
-     inkscape:cx="8912"
-     inkscape:cy="5118"
+     inkscape:zoom="2"
+     inkscape:cx="8124"
+     inkscape:cy="9910.75"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1072"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1369"
+     inkscape:current-layer="layer1"
      showguides="false"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
@@ -10667,27 +10667,27 @@
     </g>
     <g
        id="g45"
-       transform="matrix(0.723784,0,0,0.723784,-2954.4712,1699.9317)"
-       inkscape:label="布座">
+       transform="matrix(0.723784,0,0,0.723784,-2956.5698,1694.3868)"
+       inkscape:label="舞瀬">
       <rect
          style="fill:#ffffff;stroke:#28220b;stroke-width:0.695641;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          id="rect11-4-6-9-4-8-9-5-8"
          width="27.852924"
          height="51.525398"
-         x="1038.7369"
-         y="-4651.1841"
+         x="1045.9192"
+         y="-4656.0293"
          transform="rotate(90)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1061px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.752032;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="4625.6914"
-         y="1061.2716"
+         x="4629.8833"
+         y="1068.4106"
          id="text14-9-3-7-0-2"><tspan
            sodipodi:role="line"
            id="tspan14-1-9-1-9-6"
            style="font-size:22.1061px;stroke-width:0.752032"
-           x="4625.6914"
-           y="1061.2716">布座</tspan></text>
+           x="4629.8833"
+           y="1068.4106">舞瀬</tspan></text>
     </g>
     <g
        id="g138"
@@ -14685,7 +14685,8 @@
     </g>
     <g
        id="g743"
-       inkscape:label="中大上">
+       inkscape:label="中大上"
+       transform="translate(-29.09483)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -14700,7 +14701,7 @@
            sodipodi:role="line"
            style="font-size:16px;stroke-width:0.544309"
            x="792.46118"
-           y="2499.0125"
+           y="2499.0122"
            id="tspan119">大</tspan><tspan
            sodipodi:role="line"
            style="font-size:16px;stroke-width:0.544309"
@@ -14716,7 +14717,8 @@
     </g>
     <g
        id="g744"
-       inkscape:label="杢田">
+       inkscape:label="杢田"
+       transform="translate(-44.141018)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -14731,7 +14733,7 @@
            sodipodi:role="line"
            style="font-size:16px;stroke-width:0.544309"
            x="742.65039"
-           y="2498.0583"
+           y="2498.0581"
            id="tspan121">田</tspan></text>
       <circle
          style="fill:#ffffff;stroke:#28220b;stroke-width:1.05925;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -14742,7 +14744,8 @@
     </g>
     <g
        id="g745"
-       inkscape:label="井戸水寺">
+       inkscape:label="井戸水寺"
+       transform="translate(-62.585344)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -14763,7 +14766,8 @@
     </g>
     <g
        id="g746"
-       inkscape:label="九快西京">
+       inkscape:label="九快西京"
+       transform="translate(-79.642758)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -14784,7 +14788,8 @@
     </g>
     <g
        id="g747"
-       inkscape:label="明崎園">
+       inkscape:label="明崎園"
+       transform="translate(-105.5)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -14826,18 +14831,19 @@
     </g>
     <g
        id="g749"
-       inkscape:label="西舞瀬">
+       inkscape:label="西舞瀬"
+       transform="translate(-127.12053,-28.942844)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="454.49042"
-         y="2481.822"
+         x="424.42712"
+         y="2477.0442"
          id="text14-5-9-9-7-9-2-6-1-9-17-6-1-4-7-7-2-5-6-3-1-5-1-9-1-1-4"><tspan
            sodipodi:role="line"
            id="tspan14-2-4-8-9-3-8-1-4-5-9-1-6-9-8-9-3-4-1-4-4-9-7-27-1-9-6"
            style="font-size:16px;stroke-width:0.544309"
-           x="454.49042"
-           y="2481.822">西舞瀬</tspan></text>
+           x="424.42712"
+           y="2477.0442">西舞瀬</tspan></text>
       <circle
          style="fill:#ffffff;stroke:#28220b;stroke-width:1.05925;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3"
@@ -14847,18 +14853,19 @@
     </g>
     <g
        id="g748"
-       inkscape:label="舞瀬">
+       inkscape:label="布座"
+       transform="translate(-233.59037,-78.307983)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
-         x="513.1806"
-         y="2482.1169"
+         x="532.922"
+         y="2453.9724"
          id="text14-5-9-9-7-9-2-6-1-9-17-6-1-4-7-7-2-5-6-3-1-5-1-9-1-1-4-1"><tspan
            sodipodi:role="line"
            id="tspan14-2-4-8-9-3-8-1-4-5-9-1-6-9-8-9-3-4-1-4-4-9-7-27-1-9-6-7"
            style="font-size:16px;stroke-width:0.544309"
-           x="513.1806"
-           y="2482.1169">舞瀬</tspan></text>
+           x="532.922"
+           y="2453.9724">布座</tspan></text>
       <circle
          style="display:inline;fill:#ffffff;stroke:#28220b;stroke-width:1.05925;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
          id="path11-4-1-4-3-3-2-64-7-7-0-9-8-7-5-1-2-3-8"
@@ -14868,7 +14875,8 @@
     </g>
     <g
        id="g750"
-       inkscape:label="真家島">
+       inkscape:label="真家島"
+       transform="translate(-57.897544,-58.073145)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -14889,7 +14897,8 @@
     </g>
     <g
        id="g751"
-       inkscape:label="元大前">
+       inkscape:label="元大前"
+       transform="translate(-36.764862,-36.683274)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
@@ -14910,7 +14919,8 @@
     </g>
     <g
        id="g752"
-       inkscape:label="夜見宝松">
+       inkscape:label="夜見宝松"
+       transform="translate(-28.612962,-28.638086)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.544309;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
